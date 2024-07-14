@@ -1,0 +1,1287 @@
+,Month,Year,Country,City,temperature,dew_point,humidity,wind_spd,wind_gust,pressure,precip,condition,disaster_type
+0,October,2014,Pakistan,Hafizabad,75 °F,61 °F,65 %,0 mph,0 mph,29.07 in,0.0 in,Smoke,1
+1,September,2017,China,Yunyang,81 °F,73 °F,83 %,9 mph,0 mph,29.56 in,0.0 in,Cloudy,1
+2,December,2016,Indonesia,Mpuda,78 °F,78 °F,95 %,0 mph,0 mph,29.66 in,0.0 in,Fair,1
+3,December,2016,Indonesia,Asakota districts,78 °F,78 °F,95 %,0 mph,0 mph,29.66 in,0.0 in,Fair,1
+4,December,2016,Indonesia,Rasanae West,78 °F,78 °F,95 %,0 mph,0 mph,29.66 in,0.0 in,Fair,1
+5,December,2016,Indonesia,East Rasanae,78 °F,78 °F,95 %,0 mph,0 mph,29.66 in,0.0 in,Fair,1
+6,January,2017,Indonesia,Keruak,76 °F,76 °F,91 %,0 mph,0 mph,29.70 in,0.0 in,Cloudy,1
+7,March,2017,Indonesia,Lareh Sago Halaban,83 °F,76 °F,93 %,6 mph,0 mph,29.71 in,0.0 in,Mostly Cloudy,1
+8,March,2017,Indonesia,Harau districts,83 °F,76 °F,93 %,6 mph,0 mph,29.71 in,0.0 in,Mostly Cloudy,1
+9,March,2017,Indonesia,Kapur IX,83 °F,76 °F,93 %,6 mph,0 mph,29.71 in,0.0 in,Mostly Cloudy,1
+10,June,2017,Indonesia,Lampasio,76 °F,76 °F,94 %,0 mph,0 mph,29.80 in,0.0 in,Mostly Cloudy,1
+11,June,2017,Indonesia,districts of Limboto,76 °F,76 °F,94 %,0 mph,0 mph,29.80 in,0.0 in,Mostly Cloudy,1
+12,June,2017,Indonesia,and Tibawa,76 °F,76 °F,94 %,0 mph,0 mph,29.80 in,0.0 in,Mostly Cloudy,1
+13,June,2017,Indonesia,Baolan,76 °F,76 °F,94 %,0 mph,0 mph,29.80 in,0.0 in,Mostly Cloudy,1
+14,June,2017,Bangladesh,Karimganj,78 °F,77 °F,96 %,2 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,1
+15,January,2016,Nepal,Banke,42 °F,50 °F,98 %,2 mph,0 mph,27.69 in,0.0 in,Fair,1
+16,July,2017,Nepal,Mugu,62 °F,61 °F,96 %,1 mph,0 mph,22.49 in,0.0 in,Mostly Cloudy,1
+17,July,2017,Nepal,Parbat district,86 °F,74 °F,95 %,0 mph,0 mph,27.28 in,0.0 in,Cloudy,1
+18,July,2017,Nepal,Pyuthan district,86 °F,74 °F,95 %,0 mph,0 mph,27.28 in,0.0 in,Cloudy,1
+19,July,2017,Nepal,Terhathum district,86 °F,74 °F,95 %,0 mph,0 mph,27.28 in,0.0 in,Cloudy,1
+20,July,2017,Nepal,Tilathi,79 °F,79 °F,98 %,5 mph,0 mph,29.23 in,0.0 in,Mostly Cloudy,1
+21,July,2017,Nepal,Parbat,86 °F,74 °F,95 %,0 mph,0 mph,27.28 in,0.0 in,Cloudy,1
+22,April,2017,Nepal,Dang,59 °F,57 °F,55 %,3 mph,0 mph,27.15 in,0.0 in,Fair,1
+23,August,2017,Nepal,Sunsari,73 °F,73 °F,87 %,0 mph,0 mph,27.42 in,0.0 in,Cloudy,1
+24,August,2017,Nepal,Kailali,73 °F,73 °F,87 %,0 mph,0 mph,27.42 in,0.0 in,Cloudy,1
+25,August,2017,Nepal,Sindhuli,73 °F,73 °F,87 %,0 mph,0 mph,27.42 in,0.0 in,Cloudy,1
+26,July,2017,Nepal,Kaski,86 °F,76 °F,97 %,5 mph,0 mph,26.88 in,0.0 in,Mostly Cloudy,1
+27,July,2017,Nepal,Pyuthan,86 °F,74 °F,95 %,0 mph,0 mph,27.28 in,0.0 in,Cloudy,1
+28,August,2017,Nepal,Banke,73 °F,73 °F,87 %,0 mph,0 mph,27.42 in,0.0 in,Cloudy,1
+29,August,2017,Nepal,Saptari,73 °F,73 °F,87 %,0 mph,0 mph,27.42 in,0.0 in,Cloudy,1
+30,August,2017,Nepal,Lalitpur,68 °F,68 °F,94 %,3 mph,0 mph,25.49 in,0.0 in,Mostly Cloudy,1
+31,October,2018,Nepal,Dang,74 °F,74 °F,98 %,6 mph,0 mph,27.25 in,0.0 in,Light Rain,1
+32,July,2018,Nepal,Sindhuli districts,82 °F,77 °F,84 %,10 mph,0 mph,29.51 in,0.0 in,Smoke,1
+33,July,2017,Pakistan,Kholu districts,75 °F,72 °F,94 %,0 mph,0 mph,28.66 in,0.0 in,Mostly Cloudy,1
+34,December,2015,Myanmar,Kale district,69 °F,52 °F,87 %,9 mph,0 mph,29.38 in,0.0 in,Fair,1
+35,August,2014,Bangladesh,Nilphamari,74 °F,74 °F,98 %,6 mph,0 mph,27.25 in,0.0 in,Light Rain,1
+36,August,2014,Bangladesh,Rajbari,82 °F,77 °F,84 %,10 mph,0 mph,29.51 in,0.0 in,Smoke,1
+37,July,2015,Bangladesh,Bandarban,75 °F,72 °F,94 %,0 mph,0 mph,28.66 in,0.0 in,Mostly Cloudy,1
+38,August,2014,India,Balrampur,69 °F,52 °F,87 %,9 mph,0 mph,29.38 in,0.0 in,Fair,1
+39,March,2014,India,Boko,82 °F,79 °F,89 %,0 mph,0 mph,29.61 in,0.0 in,Haze,1
+40,July,2015,India,Rajkot,82 °F,79 °F,89 %,0 mph,0 mph,29.61 in,0.0 in,Haze,1
+41,January,2014,Indonesia,Tomohon,84 °F,81 °F,89 %,9 mph,0 mph,29.57 in,0.0 in,Mostly Cloudy,1
+42,January,2014,Indonesia,Kudus,82 °F,79 °F,89 %,0 mph,0 mph,29.28 in,0.0 in,Haze,1
+43,April,2015,Pakistan,Peshawar,67 °F,67 °F,93 %,3 mph,0 mph,28.96 in,0.0 in,Fair,1
+44,September,2014,Philippines,Pikit,89 °F,80 °F,93 %,3 mph,0 mph,29.17 in,0.0 in,Mostly Cloudy,1
+45,December,2015,Philippines,Baguio city,64 °F,55 °F,71 %,2 mph,0 mph,0.00 in,0.0 in,Fair,1
+46,June,2015,Tajikistan,Shugnan,102 °F,82 °F,82 %,7 mph,0 mph,0.00 in,0.0 in,Fair,1
+47,December,2015,Tajikistan,Vanch,66 °F,64 °F,88 %,7 mph,0 mph,28.63 in,0.0 in,Haze,1
+48,July,2015,Bangladesh,Cox's Bazar,75 °F,75 °F,94 %,6 mph,0 mph,29.75 in,0.0 in,Mostly Cloudy,1
+49,September,2017,China,Xianyang,72 °F,65 °F,98 %,2 mph,0 mph,25.15 in,0.0 in,Fair,1
+50,July,2017,China,Nanyang,90 °F,75 °F,94 %,3 mph,0 mph,29.60 in,0.0 in,Fair,1
+51,September,2017,China,Xianyang,100 °F,57 °F,28 %,4 mph,0 mph,28.23 in,0.0 in,Fair,1
+52,September,2017,China,Ankang,55 °F,39 °F,81 %,0 mph,0 mph,28.45 in,0.0 in,Partly Cloudy,1
+53,July,2016,India,Chamoli,82 °F,79 °F,89 %,0 mph,0 mph,29.28 in,0.0 in,Haze,1
+54,August,2016,India,Bhojpur,78 °F,75 °F,80 %,14 mph,0 mph,29.61 in,0.0 in,Mostly Cloudy,1
+55,August,2016,India,Saharsa,63 °F,63 °F,100 %,7 mph,0 mph,28.39 in,0.0 in,Light Rain,1
+56,September,2016,India,Ballia,79 °F,79 °F,100 %,4 mph,0 mph,27.99 in,0.0 in,Partly Cloudy,1
+57,August,2016,India,Nalanda,70 °F,63 °F,84 %,3 mph,0 mph,28.25 in,0.0 in,Fair,1
+58,August,2016,India,Vaishali,63 °F,63 °F,100 %,7 mph,0 mph,28.39 in,0.0 in,Light Rain,1
+59,August,2016,India,Saran,88 °F,79 °F,75 %,7 mph,0 mph,29.26 in,0.0 in,Mostly Cloudy,1
+60,July,2016,India,Supaul,91 °F,79 °F,94 %,8 mph,0 mph,29.23 in,0.0 in,Haze,1
+61,August,2016,India,Buxar,88 °F,79 °F,75 %,7 mph,0 mph,29.26 in,0.0 in,Mostly Cloudy,1
+62,August,2016,India,Allahabad,88 °F,79 °F,75 %,7 mph,0 mph,29.26 in,0.0 in,Mostly Cloudy,1
+63,July,2016,India,Araria,81 °F,81 °F,100 %,0 mph,0 mph,29.38 in,0.0 in,Haze,1
+64,July,2016,India,Nalbari districts,76 °F,71 °F,94 %,7 mph,0 mph,29.18 in,0.0 in,Partly Cloudy,1
+65,June,2016,India,Darrang,88 °F,79 °F,75 %,7 mph,0 mph,29.26 in,0.0 in,Mostly Cloudy,1
+66,July,2016,India,Dhubri,91 °F,79 °F,94 %,8 mph,0 mph,29.23 in,0.0 in,Haze,1
+67,July,2016,India,Sehore,91 °F,79 °F,94 %,8 mph,0 mph,29.23 in,0.0 in,Haze,1
+68,July,2016,India,Shajapur,88 °F,79 °F,75 %,7 mph,0 mph,29.26 in,0.0 in,Mostly Cloudy,1
+69,July,2016,India,Seoni,91 °F,79 °F,94 %,8 mph,0 mph,29.23 in,0.0 in,Haze,1
+70,July,2016,India,Agar-Malwa  districts,80 °F,78 °F,100 %,6 mph,0 mph,0.00 in,0.0 in,Cloudy,1
+71,July,2016,India,Mandla,80 °F,78 °F,100 %,6 mph,0 mph,0.00 in,0.0 in,Cloudy,1
+72,December,2016,India,Sagar,80 °F,78 °F,100 %,6 mph,0 mph,0.00 in,0.0 in,Cloudy,1
+73,July,2016,India,Tikamgarh,80 °F,78 °F,100 %,6 mph,0 mph,0.00 in,0.0 in,Cloudy,1
+74,August,2016,India,Panna,70 °F,69 °F,97 %,6 mph,0 mph,27.38 in,0.0 in,Fair,1
+75,April,2016,India,Rewa,66 °F,59 °F,93 %,12 mph,0 mph,28.88 in,0.0 in,Cloudy,1
+76,August,2016,India,Mahad,79 °F,75 °F,89 %,3 mph,0 mph,28.49 in,0.0 in,Haze,1
+77,July,2016,India,Valsad,77 °F,76 °F,100 %,12 mph,0 mph,27.74 in,0.0 in,Light Rain Shower,1
+78,August,2016,India,Navsari and Surat,74 °F,74 °F,90 %,0 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,1
+79,August,2016,India,Ratnagiri,77 °F,76 °F,100 %,12 mph,0 mph,27.74 in,0.0 in,Light Rain Shower,1
+80,July,2017,India,Sabarkantha,74 °F,74 °F,90 %,0 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,1
+81,July,2017,India,Navsari,77 °F,76 °F,100 %,12 mph,0 mph,27.74 in,0.0 in,Light Rain Shower,1
+82,July,2017,India,Valsad,77 °F,69 °F,81 %,9 mph,0 mph,28.04 in,0.0 in,Fair,1
+83,May,2017,India,Pali,73 °F,71 °F,95 %,2 mph,0 mph,27.75 in,0.0 in,Light Rain Shower,1
+84,June,2017,India,Bishnupur,74 °F,70 °F,81 %,2 mph,0 mph,27.87 in,0.0 in,Mostly Cloudy,1
+85,August,2017,India,Lakhimpur,59 °F,52 °F,85 %,0 mph,0 mph,28.10 in,0.0 in,Fair,1
+86,June,2017,India,Sonitpur,85 °F,78 °F,87 %,7 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,1
+87,June,2017,India,Jorhat,52 °F,47 °F,83 %,5 mph,0 mph,29.37 in,0.0 in,Fair,1
+88,June,2017,India,Chirang,74 °F,72 °F,93 %,8 mph,0 mph,29.10 in,0.0 in,Cloudy,1
+89,June,2017,India,Golaghat,71 °F,55 °F,65 %,0 mph,0 mph,0.00 in,0.0 in,Fair,1
+90,June,2017,India,Karbi Anglong,86 °F,73 °F,91 %,0 mph,0 mph,27.15 in,0.0 in,Partly Cloudy,1
+91,June,2017,India,Goalpara districts,86 °F,73 °F,91 %,0 mph,0 mph,27.15 in,0.0 in,Partly Cloudy,1
+92,July,2017,India,Dhemjai,86 °F,73 °F,91 %,0 mph,0 mph,27.15 in,0.0 in,Partly Cloudy,1
+93,August,2017,India,Lakhimpur,76 °F,75 °F,92 %,0 mph,0 mph,27.45 in,0.0 in,Mostly Cloudy,1
+94,July,2017,India,Darrang districts,81 °F,78 °F,89 %,0 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,1
+95,June,2017,India,Karimganj,57 °F,56 °F,77 %,14 mph,0 mph,29.25 in,0.0 in,Cloudy,1
+96,September,2017,India,Mau,81 °F,78 °F,96 %,0 mph,0 mph,0.00 in,0.0 in,Cloudy,1
+97,August,2017,India,Shravasti,82 °F,80 °F,92 %,2 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,1
+98,August,2017,India,Lakhimpur Kheri,57 °F,56 °F,77 %,14 mph,0 mph,29.25 in,0.0 in,Cloudy,1
+99,July,2017,India,Basti,78 °F,78 °F,89 %,3 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,1
+100,August,2017,India,Bahraich,79 °F,78 °F,98 %,0 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,1
+101,August,2017,India,Gorakhpur,68 °F,67 °F,96 %,3 mph,0 mph,29.02 in,0.0 in,Cloudy,1
+102,August,2017,India,Balarampur,87 °F,83 °F,98 %,6 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,1
+103,August,2017,India,Maharajganj,86 °F,71 °F,60 %,3 mph,0 mph,0.00 in,0.0 in,Fair,1
+104,August,2017,India,Siddharthnagar,74 °F,72 °F,90 %,10 mph,0 mph,29.17 in,0.0 in,Mostly Cloudy,1
+105,October,2017,India,Thane,88 °F,59 °F,49 %,12 mph,0 mph,29.39 in,0.0 in,Mostly Cloudy,1
+106,August,2018,India,Udalguri,76 °F,75 °F,92 %,0 mph,0 mph,27.45 in,0.0 in,Mostly Cloudy,1
+107,August,2018,India,Golaghat,74 °F,72 °F,90 %,10 mph,0 mph,29.17 in,0.0 in,Mostly Cloudy,1
+108,May,2018,India,Darrang,82 °F,77 °F,93 %,9 mph,0 mph,29.37 in,0.0 in,Mostly Cloudy,1
+109,August,2018,India,Thrissur,75 °F,50 °F,90 %,7 mph,0 mph,29.15 in,0.0 in,Fair,1
+110,May,2016,Afghanistan,Baharak,76 °F,75 °F,92 %,0 mph,0 mph,27.45 in,0.0 in,Mostly Cloudy,1
+111,March,2016,Indonesia,Bandung districts,81 °F,78 °F,83 %,0 mph,0 mph,0.00 in,0.0 in,Cloudy,1
+112,November,2016,Indonesia,Karawang,79 °F,79 °F,100 %,0 mph,0 mph,29.25 in,0.0 in,Fog,1
+113,February,2016,Indonesia,Landak districts,76 °F,75 °F,92 %,0 mph,0 mph,27.45 in,0.0 in,Mostly Cloudy,1
+114,September,2016,Indonesia,Garut,81 °F,78 °F,89 %,2 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,1
+115,July,2016,Indonesia,Pasuruan,82 °F,79 °F,92 %,0 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,1
+116,February,2016,Indonesia,Sanggau,84 °F,81 °F,89 %,0 mph,0 mph,29.38 in,0.0 in,Haze,1
+117,February,2016,Indonesia,Sambas,75 °F,50 °F,90 %,7 mph,0 mph,29.15 in,0.0 in,Fair,1
+118,January,2016,Indonesia,Kampar,78 °F,80 °F,98 %,7 mph,0 mph,0.00 in,0.0 in,Cloudy,1
+119,March,2016,Indonesia,Sarolangun district,82 °F,79 °F,93 %,7 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,1
+120,March,2016,Indonesia,Cianjur district,67 °F,56 °F,75 %,0 mph,0 mph,29.01 in,0.0 in,Fair,1
+121,May,2017,Indonesia,Setu,85 °F,79 °F,96 %,0 mph,0 mph,29.75 in,0.0 in,Fair,1
+122,January,2016,Malaysia,Kemaman,82 °F,76 °F,88 %,3 mph,0 mph,29.80 in,0.0 in,Cloudy,1
+123,January,2016,Malaysia,Hulu Terengganu,76 °F,78 °F,91 %,3 mph,0 mph,29.71 in,0.0 in,Fair,1
+124,January,2016,Malaysia,Dungun,78 °F,76 °F,75 %,0 mph,0 mph,29.68 in,0.0 in,Fair,1
+125,January,2016,Malaysia,Bachok,63 °F,52 °F,68 %,7 mph,0 mph,21.30 in,0.0 in,Mostly Cloudy,1
+126,January,2017,Malaysia,Tanah Merah,86 °F,77 °F,74 %,6 mph,0 mph,29.90 in,0.0 in,Mostly Cloudy,1
+127,January,2017,Malaysia,Kuala Terengganu,86 °F,77 °F,74 %,6 mph,0 mph,29.90 in,0.0 in,Mostly Cloudy,1
+128,January,2017,Malaysia,Jeli,84 °F,77 °F,79 %,7 mph,0 mph,29.84 in,0.0 in,Mostly Cloudy,1
+129,January,2017,Malaysia,Setiu,86 °F,77 °F,74 %,6 mph,0 mph,29.90 in,0.0 in,Mostly Cloudy,1
+130,January,2017,Malaysia,Dungun,86 °F,77 °F,74 %,6 mph,0 mph,29.90 in,0.0 in,Mostly Cloudy,1
+131,January,2017,Malaysia,Marang,77 °F,79 °F,100 %,2 mph,0 mph,29.80 in,0.0 in,Mostly Cloudy,1
+132,January,2017,Malaysia,Pasir Puteh,63 °F,55 °F,60 %,0 mph,0 mph,29.69 in,0.0 in,Fair,1
+133,January,2018,Malaysia,Lipis,77 °F,75 °F,94 %,3 mph,0 mph,29.75 in,0.0 in,Mostly Cloudy,1
+134,January,2018,Malaysia,Jerantut,79 °F,75 °F,94 %,8 mph,0 mph,29.75 in,0.0 in,Light Rain,1
+135,January,2018,Malaysia,Rompin,77 °F,77 °F,94 %,14 mph,0 mph,29.81 in,0.0 in,Light Rain,1
+136,January,2018,Malaysia,Kuantan,75 °F,75 °F,94 %,3 mph,0 mph,29.87 in,0.0 in,Mostly Cloudy,1
+137,February,2018,Malaysia,Limbang,79 °F,75 °F,94 %,8 mph,0 mph,29.75 in,0.0 in,Light Rain,1
+138,February,2018,Malaysia,Samarahan,46 °F,39 °F,81 %,10 mph,0 mph,30.22 in,0.0 in,Fair,1
+139,February,2018,Malaysia,Mukah,3 °F,-8 °F,53 %,2 mph,0 mph,25.26 in,0.0 in,Fair,1
+140,February,2018,Malaysia,Sarikei,79 °F,75 °F,94 %,8 mph,0 mph,29.75 in,0.0 in,Light Rain,1
+141,February,2018,Malaysia,Bintulu,77 °F,75 °F,94 %,3 mph,0 mph,29.80 in,0.0 in,Mostly Cloudy,1
+142,August,2016,Bangladesh,Madaripur,79 °F,75 °F,94 %,8 mph,0 mph,29.75 in,0.0 in,Light Rain,1
+143,August,2016,Bangladesh,Gaibandha,52 °F,48 °F,94 %,14 mph,0 mph,29.71 in,0.0 in,Fair,1
+144,August,2016,Bangladesh,Lalmonirhat,77 °F,75 °F,94 %,3 mph,0 mph,29.73 in,0.0 in,Mostly Cloudy,1
+145,July,2018,Mongolia,Bayanzurkh provinces,75 °F,73 °F,94 %,0 mph,0 mph,29.89 in,0.0 in,Mostly Cloudy,1
+146,July,2018,Nepal,Parsa,75 °F,75 °F,94 %,3 mph,0 mph,29.87 in,0.0 in,Mostly Cloudy,1
+147,August,2017,Bangladesh,Thakurgaon,82 °F,79 °F,89 %,9 mph,0 mph,29.44 in,0.0 in,Haze,1
+148,July,2017,Bangladesh,Moulvibazar,82 °F,79 °F,89 %,9 mph,0 mph,29.44 in,0.0 in,Haze,1
+149,August,2017,Bangladesh,Comilla,60 °F,57 °F,85 %,2 mph,0 mph,25.45 in,0.0 in,Mostly Cloudy,1
+150,July,2017,Bangladesh,Sirajganj,64 °F,48 °F,100 %,20 mph,0 mph,29.39 in,0.0 in,Fair,1
+151,August,2017,Bangladesh,Panchagarh,77 °F,77 °F,100 %,0 mph,0 mph,29.04 in,0.0 in,Cloudy,1
+152,July,2016,Pakistan,Ursoon,81 °F,77 °F,89 %,12 mph,0 mph,29.44 in,0.0 in,Rain,1
+153,October,2016,Pakistan,Karachi,69 °F,66 °F,89 %,0 mph,0 mph,24.18 in,0.0 in,Fog,1
+154,September,2017,Pakistan,Karachi,82 °F,77 °F,84 %,0 mph,0 mph,29.57 in,0.0 in,Mostly Cloudy,1
+155,July,2017,Pakistan,Bolan,81 °F,77 °F,89 %,12 mph,0 mph,29.44 in,0.0 in,Rain,1
+156,August,2017,Pakistan,Chitral,80 °F,79 °F,98 %,0 mph,0 mph,0.00 in,0.0 in,Light Rain Shower,1
+157,December,2017,Philippines,Northern Mindanao,69 °F,66 °F,89 %,0 mph,0 mph,24.18 in,0.0 in,Fog,1
+158,September,2017,Philippines,Bago,81 °F,77 °F,89 %,12 mph,0 mph,29.44 in,0.0 in,Rain,1
+159,May,2016,Tajikistan,Nurobod,78 °F,77 °F,96 %,2 mph,0 mph,0.00 in,0.0 in,Cloudy,1
+160,August,2016,Tajikistan,Rasht,79 °F,70 °F,78 %,9 mph,0 mph,29.75 in,0.0 in,Fair,1
+161,February,2016,Tajikistan,Aini,79 °F,70 °F,78 %,9 mph,0 mph,29.75 in,0.0 in,Fair,1
+162,September,2017,Thailand,Han Ka,82 °F,77 °F,84 %,10 mph,0 mph,29.51 in,0.0 in,Smoke,1
+163,May,2017,Thailand,Den Chai,88 °F,79 °F,75 %,6 mph,0 mph,29.51 in,0.0 in,Mostly Cloudy,1
+164,June,2017,Thailand,Song,84 °F,45 °F,15 %,0 mph,0 mph,0.00 in,0.0 in,Fair,1
+165,May,2017,Thailand,Pa Tiu,82 °F,72 °F,52 %,6 mph,0 mph,29.69 in,0.0 in,Partly Cloudy,1
+166,September,2015,India,Sonitpur,90 °F,64 °F,50 %,0 mph,0 mph,0.00 in,0.0 in,Fair,1
+167,July,2015,India,Lakhimpur,55 °F,48 °F,77 %,10 mph,0 mph,29.55 in,0.0 in,Mostly Cloudy,1
+168,October,2015,India,Kokrajhar,54 °F,57 °F,94 %,3 mph,0 mph,30.14 in,0.0 in,Fair,1
+169,September,2015,India,Goalpara,88 °F,78 °F,89 %,0 mph,0 mph,29.85 in,0.0 in,Mostly Cloudy,1
+170,July,2015,India,Dhemaji,97 °F,59 °F,68 %,4 mph,0 mph,28.28 in,0.0 in,Fair,1
+171,July,2015,India,Cachar,77 °F,72 °F,83 %,2 mph,0 mph,29.31 in,0.0 in,Fair,1
+172,July,2015,India,Lakhimpur,77 °F,75 °F,94 %,0 mph,0 mph,29.31 in,0.0 in,Partly Cloudy,1
+173,September,2015,India,Goalpara,90 °F,48 °F,24 %,12 mph,0 mph,28.91 in,0.0 in,Fair,1
+174,September,2015,India,Darrang,77 °F,75 °F,94 %,6 mph,0 mph,29.43 in,0.0 in,Partly Cloudy,1
+175,September,2015,India,Dibrugarh,89 °F,64 °F,76 %,3 mph,0 mph,29.19 in,0.0 in,Partly Cloudy,1
+176,September,2015,India,Tinsukia,79 °F,78 °F,96 %,5 mph,0 mph,0.00 in,0.0 in,Light Rain,1
+177,July,2015,India,Dhemaji,78 °F,76 °F,95 %,7 mph,0 mph,29.47 in,0.0 in,Fair,1
+178,September,2015,India,Barpeta,89 °F,64 °F,76 %,3 mph,0 mph,29.19 in,0.0 in,Partly Cloudy,1
+179,September,2015,India,Nalbari,83 °F,77 °F,83 %,12 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,1
+180,September,2015,India,Sonitpur,79 °F,78 °F,96 %,5 mph,0 mph,0.00 in,0.0 in,Light Rain,1
+181,November,2015,India,Nagapattinam,78 °F,78 °F,100 %,0 mph,0 mph,0.00 in,0.0 in,Light Rain Shower,1
+182,November,2015,India,Chittoor,68 °F,58 °F,84 %,6 mph,0 mph,29.15 in,0.0 in,Partly Cloudy,1
+183,November,2015,India,Thiruvallur,78 °F,78 °F,100 %,0 mph,0 mph,0.00 in,0.0 in,Light Rain Shower,1
+184,December,2015,India,Chennai,78 °F,76 °F,95 %,7 mph,0 mph,29.47 in,0.0 in,Fair,1
+185,November,2015,India,Nellore districts,89 °F,64 °F,76 %,3 mph,0 mph,29.19 in,0.0 in,Partly Cloudy,1
+186,January,2015,Indonesia,Aceh Jaya District,89 °F,64 °F,76 %,3 mph,0 mph,29.19 in,0.0 in,Partly Cloudy,1
+187,July,2015,Pakistan,Rawalpindi District,79 °F,78 °F,96 %,5 mph,0 mph,0.00 in,0.0 in,Light Rain,1
+188,April,2018,Indonesia,Bogor,89 °F,64 °F,76 %,3 mph,0 mph,29.19 in,0.0 in,Partly Cloudy,1
+189,June,2018,Tajikistan,Panj districts,38 °F,32 °F,76 %,9 mph,0 mph,29.45 in,0.0 in,Mostly Cloudy,1
+190,March,2016,Nepal,Uku,79 °F,77 °F,94 %,0 mph,0 mph,29.86 in,0.0 in,Mostly Cloudy,1
+191,August,2017,Nepal,Sindhuli,79 °F,77 °F,94 %,5 mph,0 mph,29.74 in,0.0 in,Partly Cloudy,1
+192,April,2014,Afghanistan,Baghlan,73 °F,72 °F,88 %,0 mph,0 mph,29.86 in,0.0 in,Fair,1
+193,May,2014,Afghanistan,Balkh,82 °F,75 °F,94 %,0 mph,0 mph,29.86 in,0.0 in,Fog,1
+194,April,2014,Afghanistan,Jawzjan,73 °F,72 °F,94 %,6 mph,0 mph,29.62 in,0.0 in,Mostly Cloudy,1
+195,April,2014,Afghanistan,Nangarhar,23 °F,19 °F,86 %,7 mph,0 mph,29.08 in,0.0 in,Light Snow Shower,1
+196,April,2014,Afghanistan,Nuristan,18 °F,12 °F,79 %,7 mph,0 mph,29.45 in,0.0 in,Fair,1
+197,April,2014,Afghanistan,Parwan,73 °F,63 °F,65 %,4 mph,0 mph,28.34 in,0.0 in,Fair,1
+198,May,2014,Afghanistan,Samangan,100 °F,61 °F,55 %,2 mph,0 mph,28.19 in,0.0 in,Fair,1
+199,April,2014,Afghanistan,Sar-e-Pul,71 °F,58 °F,49 %,9 mph,0 mph,0.00 in,0.0 in,Fair,1
+200,August,2014,Bangladesh,Sunamganj,52 °F,29 °F,41 %,12 mph,0 mph,24.94 in,0.0 in,Fair,1
+201,April,2014,China,Hunan,52 °F,43 °F,71 %,6 mph,0 mph,29.69 in,0.0 in,Fair,1
+202,November,2014,China,Guizhou,73 °F,57 °F,94 %,0 mph,0 mph,29.65 in,0.0 in,Fair,1
+203,November,2014,China,Jiangxi,66 °F,52 °F,60 %,0 mph,0 mph,28.15 in,0.0 in,Fair,1
+204,July,2014,China,Hebei,63 °F,61 °F,94 %,2 mph,0 mph,25.18 in,0.0 in,Fair,1
+205,June,2014,China,Inner Mongolia,62 °F,47 °F,58 %,12 mph,0 mph,24.85 in,0.0 in,Fair,1
+206,September,2014,China,Shaanxi,52 °F,29 °F,41 %,12 mph,0 mph,24.94 in,0.0 in,Fair,1
+207,November,2014,China,Chongqing,57 °F,54 °F,88 %,4 mph,0 mph,28.69 in,0.0 in,Light Rain,1
+208,June,2015,China,Guizhou,63 °F,59 °F,88 %,0 mph,0 mph,29.04 in,0.0 in,Fog,1
+209,June,2015,China,Hubei,70 °F,70 °F,94 %,4 mph,0 mph,29.58 in,0.0 in,Partly Cloudy,1
+210,June,2015,China,Hunan,63 °F,59 °F,88 %,0 mph,0 mph,29.04 in,0.0 in,Fog,1
+211,June,2015,China,Chongqing,66 °F,63 °F,84 %,0 mph,0 mph,29.27 in,0.0 in,Cloudy,1
+212,June,2015,China,Guizhou,57 °F,54 °F,88 %,4 mph,0 mph,28.69 in,0.0 in,Light Rain,1
+213,July,2015,China,Jiangsu,57 °F,54 °F,88 %,4 mph,0 mph,28.69 in,0.0 in,Light Rain,1
+214,June,2015,China,Anhui,66 °F,63 °F,84 %,0 mph,0 mph,29.27 in,0.0 in,Cloudy,1
+215,August,2014,India,Himachal Pradesh,106 °F,55 °F,19 %,0 mph,0 mph,28.75 in,0.0 in,Widespread Dust,1
+216,June,2014,India,Assam.,70 °F,66 °F,83 %,4 mph,0 mph,28.30 in,0.0 in,Fair,1
+217,July,2014,India,Uttarakhand,70 °F,66 °F,90 %,6 mph,0 mph,29.16 in,0.0 in,Cloudy,1
+218,September,2014,Indonesia,Jakarta,77 °F,73 °F,89 %,6 mph,0 mph,29.66 in,0.0 in,Mostly Cloudy,1
+219,February,2014,Indonesia,Banten,70 °F,66 °F,88 %,7 mph,0 mph,29.12 in,0.0 in,Cloudy,1
+220,September,2014,Indonesia,Java,70 °F,66 °F,83 %,4 mph,0 mph,28.30 in,0.0 in,Fair,1
+221,September,2014,Indonesia,Java,77 °F,73 °F,89 %,6 mph,0 mph,29.66 in,0.0 in,Mostly Cloudy,1
+222,February,2014,Indonesia,Jombang district,70 °F,66 °F,90 %,6 mph,0 mph,29.16 in,0.0 in,Cloudy,1
+223,October,2014,Indonesia,Sumatra,70 °F,66 °F,88 %,7 mph,0 mph,29.12 in,0.0 in,Cloudy,1
+224,February,2015,Indonesia,Jakarta,70 °F,66 °F,90 %,6 mph,0 mph,29.16 in,0.0 in,Cloudy,1
+225,June,2014,Iran,Golestan,70 °F,66 °F,88 %,7 mph,0 mph,29.12 in,0.0 in,Cloudy,1
+226,June,2014,Iran,Mazandaran,64 °F,61 °F,90 %,8 mph,0 mph,28.96 in,0.0 in,Cloudy,1
+227,June,2014,Iran,Khorasan,68 °F,61 °F,70 %,8 mph,0 mph,29.15 in,0.0 in,Partly Cloudy,1
+228,June,2014,Iran,Khorasan,63 °F,60 °F,87 %,0 mph,0 mph,29.22 in,0.0 in,Fair,1
+229,June,2014,Iran,Semnan,66 °F,65 °F,96 %,10 mph,0 mph,28.83 in,0.0 in,Cloudy,1
+230,July,2015,Iran,Alborz,63 °F,60 °F,87 %,0 mph,0 mph,29.22 in,0.0 in,Fair,1
+231,November,2015,Iran,Kerman,59 °F,56 °F,90 %,7 mph,0 mph,29.06 in,0.0 in,Cloudy,1
+232,July,2015,Iran,Mazandaran,80 °F,73 °F,71 %,0 mph,0 mph,29.71 in,0.0 in,Partly Cloudy,1
+233,July,2015,Iran,Khorasane-Shomali,80 °F,73 °F,71 %,0 mph,0 mph,29.71 in,0.0 in,Partly Cloudy,1
+234,September,2015,Iran,Tehran,80 °F,73 °F,71 %,0 mph,0 mph,29.71 in,0.0 in,Partly Cloudy,1
+235,April,2015,Kazakhstan,Akmola,78 °F,76 °F,93 %,6 mph,0 mph,29.74 in,0.0 in,Cloudy,1
+236,April,2015,Kazakhstan,Pavlodar,77 °F,73 °F,89 %,2 mph,0 mph,29.50 in,0.0 in,Fair,1
+237,November,2014,Malaysia,Peninsular Malaysia,72 °F,43 °F,35 %,12 mph,0 mph,28.25 in,0.0 in,Fair,1
+238,November,2014,Malaysia,Peninsular Malaysia,63 °F,59 °F,88 %,2 mph,0 mph,29.76 in,0.0 in,Fair,1
+239,January,2014,Malaysia,Putrajaya,72 °F,43 °F,35 %,12 mph,0 mph,28.25 in,0.0 in,Fair,1
+240,June,2015,Myanmar,Sagaing region,75 °F,72 °F,89 %,2 mph,0 mph,29.61 in,0.0 in,Fair,1
+241,June,2014,Nepal,Far Western region,75 °F,72 °F,89 %,2 mph,0 mph,29.61 in,0.0 in,Fair,1
+242,June,2015,Pakistan,Khuzdar district,98 °F,50 °F,20 %,2 mph,0 mph,0.00 in,0.0 in,Fair,1
+243,July,2015,Pakistan,Chitral district,79 °F,63 °F,54 %,5 mph,0 mph,30.03 in,0.0 in,Partly Cloudy,1
+244,July,2014,Philippines,Sultan Kudarat,48 °F,41 °F,76 %,13 mph,0 mph,28.08 in,0.0 in,Fair,1
+245,September,2014,Philippines,Maguindanao,82 °F,39 °F,14 %,2 mph,0 mph,27.21 in,0.0 in,Fair,1
+246,April,2015,Philippines,San Jose,46 °F,44 °F,93 %,7 mph,0 mph,28.94 in,0.0 in,Light Rain,1
+247,February,2015,Philippines,San Pedro,46 °F,44 °F,93 %,7 mph,0 mph,28.94 in,0.0 in,Light Rain,1
+248,November,2015,Philippines,Tabuk,46 °F,44 °F,93 %,7 mph,0 mph,28.94 in,0.0 in,Light Rain,1
+249,October,2015,Saudi Arabia,Riyadh,77 °F,75 °F,94 %,2 mph,0 mph,29.79 in,0.0 in,Mostly Cloudy,1
+250,January,2014,Thailand,Pattani,61 °F,57 °F,88 %,6 mph,0 mph,30.23 in,0.0 in,Mist,1
+251,November,2014,Thailand,Satun,81 °F,68 °F,69 %,8 mph,0 mph,29.86 in,0.0 in,Fair,1
+252,November,2014,Thailand,Yala,84 °F,39 °F,13 %,5 mph,0 mph,27.91 in,0.0 in,Partly Cloudy,1
+253,November,2015,Bangladesh,Chittagong,75 °F,48 °F,32 %,0 mph,0 mph,26.00 in,0.0 in,Fair,1
+254,November,2014,China,Guangdong,43 °F,43 °F,100 %,2 mph,0 mph,28.09 in,0.0 in,Fog,1
+255,June,2014,China,Zhejiang,82 °F,73 °F,74 %,9 mph,0 mph,29.92 in,0.0 in,Mostly Cloudy,1
+256,November,2014,China,Yunnan,50 °F,46 °F,82 %,5 mph,0 mph,28.39 in,0.0 in,Cloudy,1
+257,November,2014,China,Sichuan,88 °F,73 °F,70 %,3 mph,0 mph,29.83 in,0.0 in,Haze,1
+258,November,2014,China,Sichuan,70 °F,66 °F,87 %,0 mph,0 mph,29.13 in,0.0 in,Partly Cloudy,1
+259,April,2015,China,Guangdong,41 °F,43 °F,65 %,7 mph,0 mph,29.42 in,0.0 in,Fair,1
+260,June,2015,China,Guangxi,41 °F,43 °F,65 %,7 mph,0 mph,29.42 in,0.0 in,Fair,1
+261,June,2015,China,Fujian,41 °F,43 °F,65 %,7 mph,0 mph,29.42 in,0.0 in,Fair,1
+262,May,2015,China,Gansu,41 °F,43 °F,65 %,7 mph,0 mph,29.42 in,0.0 in,Fair,1
+263,June,2015,China,Sichuan,75 °F,72 °F,93 %,0 mph,0 mph,29.26 in,0.0 in,Cloudy,1
+264,June,2015,China,Guangxi,41 °F,43 °F,65 %,7 mph,0 mph,29.42 in,0.0 in,Fair,1
+265,July,2014,India,Orissa state,41 °F,43 °F,65 %,7 mph,0 mph,29.42 in,0.0 in,Fair,1
+266,July,2014,India,Odisha state,70 °F,66 °F,87 %,0 mph,0 mph,29.13 in,0.0 in,Partly Cloudy,1
+267,August,2015,India,Maharashtra,41 °F,43 °F,65 %,7 mph,0 mph,29.42 in,0.0 in,Fair,1
+268,September,2014,Indonesia,Java,41 °F,43 °F,65 %,7 mph,0 mph,29.42 in,0.0 in,Fair,1
+269,September,2014,Indonesia,Java,41 °F,43 °F,65 %,7 mph,0 mph,29.42 in,0.0 in,Fair,1
+270,September,2014,Indonesia,Java,41 °F,43 °F,65 %,7 mph,0 mph,29.42 in,0.0 in,Fair,1
+271,October,2014,Indonesia,Sumatra,41 °F,43 °F,65 %,7 mph,0 mph,29.42 in,0.0 in,Fair,1
+272,January,2014,Indonesia,Jambi,70 °F,66 °F,88 %,7 mph,0 mph,29.12 in,0.0 in,Cloudy,1
+273,October,2014,Indonesia,Sumatra,59 °F,57 °F,90 %,0 mph,0 mph,29.10 in,0.0 in,Light Drizzle,1
+274,October,2014,Malaysia,Sabah,70 °F,66 °F,88 %,7 mph,0 mph,29.12 in,0.0 in,Cloudy,1
+275,January,2015,Malaysia,Sarawak,69 °F,58 °F,90 %,3 mph,0 mph,29.19 in,0.0 in,Partly Cloudy,1
+276,August,2015,Myanmar,Ayeyarwaddy region,70 °F,66 °F,88 %,7 mph,0 mph,29.12 in,0.0 in,Cloudy,1
+277,January,2015,Myanmar,Rakhine,70 °F,66 °F,88 %,7 mph,0 mph,29.12 in,0.0 in,Cloudy,1
+278,July,2015,Myanmar,Tanintharyi region,70 °F,66 °F,88 %,7 mph,0 mph,29.12 in,0.0 in,Cloudy,1
+279,June,2014,Thailand,Southern,71 °F,53 °F,68 %,0 mph,0 mph,29.20 in,0.0 in,Mostly Cloudy,1
+280,November,2014,Thailand,Krabi,59 °F,61 °F,93 %,7 mph,0 mph,29.17 in,0.0 in,Mostly Cloudy,1
+281,June,2014,Thailand,Southern,68 °F,61 °F,54 %,8 mph,0 mph,29.26 in,0.0 in,Partly Cloudy,1
+282,August,2014,Myanmar,Yangon,82 °F,74 °F,75 %,7 mph,0 mph,29.61 in,0.0 in,Mostly Cloudy,1
+283,August,2014,Myanmar,Bago,78 °F,76 °F,93 %,6 mph,0 mph,29.74 in,0.0 in,Cloudy,1
+284,June,2014,Myanmar,Magway,78 °F,76 °F,93 %,6 mph,0 mph,29.74 in,0.0 in,Cloudy,1
+285,April,2015,Pakistan,Kashmir,77 °F,77 °F,94 %,1 mph,0 mph,29.71 in,0.0 in,Mostly Cloudy,1
+286,November,2014,Thailand,Patthalung,63 °F,50 °F,88 %,4 mph,0 mph,29.52 in,0.0 in,Fair,1
+287,November,2014,Thailand,Narathiwat provinces,38 °F,25 °F,60 %,0 mph,0 mph,29.01 in,0.0 in,Cloudy,1
+288,November,2014,China,Jiangxi,81 °F,75 °F,84 %,2 mph,0 mph,29.68 in,0.0 in,Cloudy,1
+289,June,2014,China,Hubei,46 °F,45 °F,93 %,14 mph,0 mph,29.32 in,0.0 in,Mostly Cloudy,1
+290,April,2016,Afghanistan,Baghlan,61 °F,57 °F,88 %,3 mph,0 mph,29.16 in,0.0 in,Smoke,1
+291,September,2016,China,Tianjin Shi,77 °F,75 °F,94 %,7 mph,0 mph,29.89 in,0.0 in,Cloudy,1
+292,July,2016,China,Beijing Shi,57 °F,54 °F,88 %,4 mph,0 mph,28.69 in,0.0 in,Light Rain,1
+293,September,2016,China,Liaoning,41 °F,43 °F,65 %,7 mph,0 mph,29.42 in,0.0 in,Fair,1
+294,December,2016,China,Henan,41 °F,43 °F,65 %,7 mph,0 mph,29.42 in,0.0 in,Fair,1
+295,September,2016,China,Jilin,66 °F,63 °F,84 %,0 mph,0 mph,29.27 in,0.0 in,Cloudy,1
+296,June,2016,China,Shanxi Sheng,41 °F,43 °F,65 %,7 mph,0 mph,29.42 in,0.0 in,Fair,1
+297,June,2016,China,Guizhou Sheng,84 °F,77 °F,74 %,9 mph,0 mph,29.71 in,0.0 in,Mostly Cloudy,1
+298,June,2016,China,Yunnan Sheng provinces,57 °F,54 °F,88 %,4 mph,0 mph,28.69 in,0.0 in,Light Rain,1
+299,July,2017,China,Anhui,77 °F,46 °F,82 %,5 mph,0 mph,28.52 in,0.0 in,Fair,1
+300,September,2017,China,Xian,65 °F,62 °F,88 %,4 mph,0 mph,25.19 in,0.0 in,Fog,1
+301,September,2017,China,Hubei,75 °F,64 °F,69 %,7 mph,0 mph,29.78 in,0.0 in,Fair,1
+302,July,2017,China,Guangxi,91 °F,62 °F,46 %,5 mph,0 mph,29.14 in,0.0 in,Mostly Cloudy,1
+303,July,2017,China,Jiangxi,99 °F,75 °F,47 %,7 mph,0 mph,29.61 in,0.0 in,Fair,1
+304,September,2017,China,Chongqing,61 °F,59 °F,90 %,0 mph,0 mph,29.44 in,0.0 in,Fair,1
+305,May,2017,China,Fujian,74 °F,71 °F,91 %,5 mph,0 mph,29.29 in,0.0 in,Cloudy,1
+306,September,2017,China,Hubei,91 °F,62 °F,46 %,5 mph,0 mph,29.14 in,0.0 in,Mostly Cloudy,1
+307,July,2017,China,Hebei,51 °F,48 °F,83 %,10 mph,0 mph,29.21 in,0.0 in,Cloudy,1
+308,July,2017,China,Hunan,84 °F,75 °F,70 %,7 mph,0 mph,28.13 in,0.0 in,Fair,1
+309,September,2017,China,Beijing,90 °F,68 °F,49 %,2 mph,0 mph,28.66 in,0.0 in,Haze,1
+310,July,2017,China,Jilin,51 °F,48 °F,83 %,10 mph,0 mph,29.21 in,0.0 in,Cloudy,1
+311,May,2017,China,Fujian,72 °F,70 °F,91 %,3 mph,0 mph,29.24 in,0.0 in,Mostly Cloudy,1
+312,September,2017,China,Shaanxi,63 °F,63 °F,100 %,7 mph,0 mph,28.39 in,0.0 in,Light Rain,1
+313,October,2017,China,Guangdong,82 °F,75 °F,79 %,8 mph,0 mph,29.71 in,0.0 in,Fair,1
+314,September,2017,China,Hubei,70 °F,68 °F,93 %,10 mph,0 mph,29.29 in,0.0 in,Fair,1
+315,July,2017,China,Jiangxi,90 °F,86 °F,89 %,0 mph,0 mph,28.69 in,0.0 in,Fog,1
+316,January,2017,China,Sichuan,70 °F,66 °F,94 %,9 mph,0 mph,28.35 in,0.0 in,Partly Cloudy,1
+317,July,2017,China,Hunan,38 °F,19 °F,50 %,3 mph,0 mph,29.23 in,0.0 in,Fair,1
+318,July,2017,China,Anhui,88 °F,54 °F,64 %,5 mph,0 mph,29.29 in,0.0 in,Fair,1
+319,July,2017,China,Guizhou,82 °F,75 °F,79 %,8 mph,0 mph,29.71 in,0.0 in,Fair,1
+320,September,2017,China,Chongqing,73 °F,75 °F,94 %,7 mph,0 mph,29.52 in,0.0 in,Fair,1
+321,October,2017,China,Guangdong,90 °F,86 °F,89 %,0 mph,0 mph,28.69 in,0.0 in,Fog,1
+322,July,2017,China,Zhejiang,75 °F,72 °F,89 %,7 mph,0 mph,29.04 in,0.0 in,Fair,1
+323,July,2017,China,Jiangxi,88 °F,54 °F,64 %,5 mph,0 mph,29.29 in,0.0 in,Fair,1
+324,May,2017,China,Fujian provinces,70 °F,69 °F,96 %,6 mph,0 mph,29.14 in,0.0 in,Fair,1
+325,January,2017,China,Sichuan,70 °F,68 °F,93 %,10 mph,0 mph,29.29 in,0.0 in,Fair,1
+326,September,2017,China,Chongqing,73 °F,67 °F,87 %,3 mph,0 mph,29.28 in,0.0 in,Partly Cloudy,1
+327,July,2017,China,Yunnan,82 °F,75 °F,79 %,8 mph,0 mph,29.71 in,0.0 in,Fair,1
+328,September,2017,China,Hubei,38 °F,19 °F,50 %,3 mph,0 mph,29.23 in,0.0 in,Fair,1
+329,September,2017,China,Shaanxi,90 °F,86 °F,89 %,0 mph,0 mph,28.69 in,0.0 in,Fog,1
+330,September,2017,China,Tianjin,72 °F,70 °F,91 %,3 mph,0 mph,29.24 in,0.0 in,Mostly Cloudy,1
+331,July,2017,China,Guizhou,73 °F,67 °F,87 %,3 mph,0 mph,29.28 in,0.0 in,Partly Cloudy,1
+332,July,2017,China,Guangxi Zhuang,70 °F,66 °F,94 %,9 mph,0 mph,28.35 in,0.0 in,Partly Cloudy,1
+333,July,2017,China,Yunnan,70 °F,68 °F,93 %,10 mph,0 mph,29.29 in,0.0 in,Fair,1
+334,October,2017,China,Guangdong,82 °F,75 °F,79 %,8 mph,0 mph,29.71 in,0.0 in,Fair,1
+335,September,2017,China,Hubei,88 °F,54 °F,64 %,5 mph,0 mph,29.29 in,0.0 in,Fair,1
+336,July,2017,China,Jiangxi,38 °F,19 °F,50 %,3 mph,0 mph,29.23 in,0.0 in,Fair,1
+337,July,2017,China,Guangxi Zhuang,70 °F,66 °F,94 %,9 mph,0 mph,28.35 in,0.0 in,Partly Cloudy,1
+338,July,2017,China,and Yunnan,90 °F,86 °F,89 %,0 mph,0 mph,28.69 in,0.0 in,Fog,1
+339,September,2017,China,Hubei,73 °F,67 °F,87 %,3 mph,0 mph,29.28 in,0.0 in,Partly Cloudy,1
+340,July,2017,China,Jiangxi,82 °F,75 °F,79 %,8 mph,0 mph,29.71 in,0.0 in,Fair,1
+341,July,2017,China,Hunan,70 °F,69 °F,96 %,6 mph,0 mph,29.14 in,0.0 in,Fair,1
+342,July,2017,China,Guizhou,73 °F,63 °F,65 %,4 mph,0 mph,29.75 in,0.0 in,Fair,1
+343,July,2017,China,Jilin,73 °F,75 °F,94 %,7 mph,0 mph,29.52 in,0.0 in,Fair,1
+344,July,2018,China,Sichuan,73 °F,67 °F,87 %,3 mph,0 mph,29.28 in,0.0 in,Partly Cloudy,1
+345,July,2018,China,Chongqing,70 °F,68 °F,93 %,10 mph,0 mph,29.29 in,0.0 in,Fair,1
+346,June,2018,China,Jiangxi,90 °F,86 °F,89 %,0 mph,0 mph,28.69 in,0.0 in,Fog,1
+347,August,2018,China,Henan,38 °F,19 °F,50 %,3 mph,0 mph,29.23 in,0.0 in,Fair,1
+348,July,2018,China,Chongqing,82 °F,75 °F,79 %,8 mph,0 mph,29.71 in,0.0 in,Fair,1
+349,July,2018,China,Sichuan,73 °F,67 °F,87 %,3 mph,0 mph,29.28 in,0.0 in,Partly Cloudy,1
+350,August,2018,China,Henan,82 °F,75 °F,79 %,8 mph,0 mph,29.71 in,0.0 in,Fair,1
+351,April,2016,Afghanistan,Ghazni,70 °F,66 °F,94 %,9 mph,0 mph,28.35 in,0.0 in,Partly Cloudy,1
+352,July,2016,India,Assam,75 °F,72 °F,89 %,7 mph,0 mph,29.04 in,0.0 in,Fair,1
+353,August,2016,India,Raigad,82 °F,75 °F,79 %,8 mph,0 mph,29.71 in,0.0 in,Fair,1
+354,September,2016,India,Telangana,38 °F,19 °F,50 %,3 mph,0 mph,29.23 in,0.0 in,Fair,1
+355,May,2016,India,Andhra Pradesh province,78 °F,73 °F,84 %,6 mph,0 mph,29.26 in,0.0 in,Mostly Cloudy,1
+356,July,2017,India,Gujarat,78 °F,73 °F,84 %,6 mph,0 mph,29.26 in,0.0 in,Mostly Cloudy,1
+357,June,2017,India,Manipur,88 °F,70 °F,55 %,7 mph,0 mph,28.21 in,0.0 in,Fair,1
+358,August,2017,India,Uttar Pradesh,88 °F,70 °F,55 %,7 mph,0 mph,28.21 in,0.0 in,Fair,1
+359,August,2017,India,West Bengal,78 °F,73 °F,84 %,6 mph,0 mph,29.26 in,0.0 in,Mostly Cloudy,1
+360,May,2018,India,Tripura state,77 °F,73 °F,82 %,10 mph,0 mph,29.30 in,0.0 in,Mostly Cloudy,1
+361,July,2018,India,Gujarat,78 °F,73 °F,84 %,6 mph,0 mph,29.26 in,0.0 in,Mostly Cloudy,1
+362,July,2018,India,Maharashtra,88 °F,46 °F,24 %,2 mph,0 mph,26.91 in,0.0 in,Fair,1
+363,September,2018,India,Uttar Pradesh,80 °F,67 °F,87 %,8 mph,0 mph,29.15 in,0.0 in,Mostly Cloudy,1
+364,July,2018,India,West Bengal,65 °F,64 °F,97 %,5 mph,0 mph,29.06 in,0.0 in,Cloudy,1
+365,September,2018,India,Uttar Pradesh,65 °F,64 °F,97 %,5 mph,0 mph,29.06 in,0.0 in,Cloudy,1
+366,August,2018,India,Haryana states,76 °F,72 °F,87 %,7 mph,0 mph,29.24 in,0.0 in,Mostly Cloudy,1
+367,July,2018,India,Punjab,59 °F,55 °F,72 %,7 mph,0 mph,28.95 in,0.0 in,Cloudy,1
+368,October,2016,Indonesia,Gorontalo province,68 °F,39 °F,33 %,7 mph,0 mph,29.30 in,0.0 in,Fair,1
+369,January,2016,Indonesia,North Sulawesi region,74 °F,72 °F,93 %,8 mph,0 mph,29.10 in,0.0 in,Cloudy,1
+370,February,2016,Indonesia,4 districts in West Kalimantan province,86 °F,71 °F,60 %,3 mph,0 mph,0.00 in,0.0 in,Fair,1
+371,September,2016,Indonesia,Sumatra,68 °F,67 °F,93 %,5 mph,0 mph,29.18 in,0.0 in,Fair,1
+372,January,2016,Indonesia,Jambi,82 °F,65 °F,87 %,8 mph,0 mph,29.19 in,0.0 in,Mostly Cloudy,1
+373,March,2016,Indonesia,Lampung,75 °F,50 °F,90 %,7 mph,0 mph,29.15 in,0.0 in,Fair,1
+374,November,2017,Indonesia,South Ogan Komering Ulu Regency,75 °F,50 °F,90 %,7 mph,0 mph,29.15 in,0.0 in,Fair,1
+375,November,2017,Indonesia,Bandung Regency,72 °F,68 °F,40 %,5 mph,0 mph,29.03 in,0.0 in,Mostly Cloudy,1
+376,April,2017,Indonesia,Tegal Regency,64 °F,52 °F,53 %,7 mph,0 mph,29.22 in,0.0 in,Fair,1
+377,November,2017,Indonesia,Aceh Singkil district,67 °F,56 °F,75 %,0 mph,0 mph,29.01 in,0.0 in,Fair,1
+378,December,2017,Indonesia,Jakarta,77 °F,70 °F,67 %,6 mph,0 mph,29.27 in,0.0 in,Mostly Cloudy,1
+379,February,2017,Indonesia,Bekasi,38 °F,36 °F,86 %,9 mph,0 mph,29.18 in,0.0 in,Fair,1
+380,March,2017,Indonesia,Pangkalan,85 °F,69 °F,93 %,6 mph,0 mph,29.12 in,0.0 in,Partly Cloudy,1
+381,May,2017,Indonesia,Sumatra province,77 °F,69 °F,79 %,7 mph,0 mph,29.29 in,0.0 in,Fair,1
+382,November,2017,Indonesia,Central Java provinces,66 °F,65 °F,93 %,8 mph,0 mph,29.11 in,0.0 in,Light Rain,1
+383,May,2017,Indonesia,Kranggan,77 °F,69 °F,79 %,7 mph,0 mph,29.29 in,0.0 in,Fair,1
+384,November,2017,Indonesia,Java,69 °F,68 °F,93 %,8 mph,0 mph,29.12 in,0.0 in,Fair,1
+385,December,2017,Indonesia,Jakarta,76 °F,73 °F,74 %,0 mph,0 mph,29.38 in,0.0 in,Mostly Cloudy,1
+386,May,2017,Iran,Mazandaran,82 °F,74 °F,77 %,5 mph,0 mph,29.88 in,0.0 in,Mostly Cloudy,1
+387,April,2017,Iran,Ardebil,82 °F,76 °F,88 %,3 mph,0 mph,29.80 in,0.0 in,Cloudy,1
+388,August,2017,Iran,Golestan,78 °F,76 °F,75 %,0 mph,0 mph,29.68 in,0.0 in,Fair,1
+389,November,2018,Iran,Mazandaran,85 °F,76 °F,98 %,0 mph,0 mph,29.74 in,0.0 in,Fair,1
+390,November,2018,Iran,Isfahan,78 °F,76 °F,75 %,0 mph,0 mph,29.68 in,0.0 in,Fair,1
+391,August,2018,Iran,Gilan,83 °F,74 °F,75 %,6 mph,0 mph,29.66 in,0.0 in,Cloudy,1
+392,November,2018,Iran,Golestan,84 °F,73 °F,100 %,3 mph,0 mph,29.70 in,0.0 in,Partly Cloudy,1
+393,November,2018,Iran,North Khorasan,83 °F,76 °F,93 %,6 mph,0 mph,29.71 in,0.0 in,Mostly Cloudy,1
+394,October,2018,Iran,Yazd provinces,76 °F,78 °F,91 %,3 mph,0 mph,29.71 in,0.0 in,Fair,1
+395,August,2016,Japan,Kumamoto province,78 °F,76 °F,75 %,0 mph,0 mph,29.68 in,0.0 in,Fair,1
+396,September,2017,Japan,Oita prefectures,76 °F,78 °F,91 %,3 mph,0 mph,29.71 in,0.0 in,Fair,1
+397,January,2017,Japan,Hiroshima,78 °F,77 °F,80 %,0 mph,0 mph,29.65 in,0.0 in,Partly Cloudy,1
+398,September,2017,Japan,Kagoshima,83 °F,74 °F,75 %,6 mph,0 mph,29.66 in,0.0 in,Cloudy,1
+399,September,2017,Japan,Miyazaki,76 °F,78 °F,91 %,3 mph,0 mph,29.71 in,0.0 in,Fair,1
+400,August,2017,Japan,Shimane,73 °F,72 °F,94 %,0 mph,0 mph,29.56 in,0.0 in,Fair,1
+401,August,2018,Japan,Gifu,64 °F,45 °F,100 %,0 mph,0 mph,25.68 in,0.0 in,Fair,1
+402,October,2018,Japan,Kochi,36 °F,31 °F,82 %,2 mph,0 mph,0.00 in,0.0 in,Fair,1
+403,September,2018,Japan,Tokushima,68 °F,52 °F,100 %,0 mph,0 mph,30.09 in,0.0 in,Fair,1
+404,April,2017,Kazakhstan,Karaganda,64 °F,61 °F,94 %,5 mph,0 mph,29.90 in,0.0 in,Fair,1
+405,April,2017,Kazakhstan,Akmola,75 °F,73 °F,94 %,5 mph,0 mph,29.53 in,0.0 in,Mostly Cloudy,1
+406,April,2017,Kazakhstan,Kostanay,37 °F,34 °F,93 %,5 mph,0 mph,25.22 in,0.0 in,Fog,1
+407,April,2017,Kazakhstan,Aktobe,75 °F,73 °F,94 %,5 mph,0 mph,29.53 in,0.0 in,Mostly Cloudy,1
+408,March,2017,Kazakhstan,East Kazakhstan,57 °F,50 °F,77 %,18 mph,0 mph,28.84 in,0.0 in,Mostly Cloudy,1
+409,July,2016,Afghanistan,Khost city,77 °F,37 °F,24 %,5 mph,0 mph,26.16 in,0.0 in,Fair,1
+410,March,2016,Malaysia,Johor,81 °F,63 °F,47 %,15 mph,0 mph,28.76 in,0.0 in,Mostly Cloudy,1
+411,November,2016,Malaysia,Selangor,81 °F,64 °F,83 %,6 mph,0 mph,29.75 in,0.0 in,Fair,1
+412,February,2016,Malaysia,Negri Sembilan,82 °F,64 °F,51 %,5 mph,0 mph,28.84 in,0.0 in,Fair,1
+413,March,2016,Malaysia,Melaka,77 °F,75 °F,94 %,3 mph,0 mph,29.67 in,0.0 in,Mostly Cloudy,1
+414,March,2016,Malaysia,Johor,84 °F,75 °F,84 %,6 mph,0 mph,29.87 in,0.0 in,Mostly Cloudy,1
+415,February,2017,Malaysia,Selangor,88 °F,72 °F,55 %,5 mph,0 mph,28.79 in,0.0 in,Mostly Cloudy,1
+416,February,2017,Malaysia,Johor,77 °F,72 °F,89 %,8 mph,0 mph,29.18 in,0.0 in,Mostly Cloudy,1
+417,December,2017,Malaysia,Sabah,63 °F,30 °F,87 %,4 mph,0 mph,28.30 in,0.0 in,Fair,1
+418,February,2017,Malaysia,Pahang,36 °F,34 °F,87 %,4 mph,0 mph,28.99 in,0.0 in,Fair,1
+419,January,2017,Malaysia,Terengganu,43 °F,43 °F,87 %,7 mph,0 mph,29.45 in,0.0 in,Fair,1
+420,February,2017,Malaysia,Malacca,70 °F,32 °F,18 %,13 mph,0 mph,28.49 in,0.0 in,Fair,1
+421,February,2017,Malaysia,Perak,41 °F,34 °F,70 %,6 mph,0 mph,29.87 in,0.0 in,Fair,1
+422,June,2018,Malaysia,Johor,79 °F,75 °F,84 %,6 mph,0 mph,29.76 in,0.0 in,Mostly Cloudy,1
+423,August,2016,Bangladesh,Sunamganj,36 °F,34 °F,93 %,13 mph,0 mph,29.39 in,0.0 in,Fair,1
+424,July,2018,Mongolia,Sukhbaatar,77 °F,75 °F,94 %,3 mph,0 mph,29.57 in,0.0 in,Mostly Cloudy,1
+425,July,2016,Myanmar,Sagaing,77 °F,72 °F,70 %,2 mph,0 mph,29.87 in,0.0 in,Mostly Cloudy,1
+426,August,2016,Myanmar,Ayeyarwady,79 °F,75 °F,94 %,3 mph,0 mph,29.85 in,0.0 in,Mostly Cloudy,1
+427,August,2016,Myanmar,Mandalay,79 °F,75 °F,78 %,2 mph,0 mph,29.83 in,0.0 in,Mostly Cloudy,1
+428,October,2016,Myanmar,Mon provinces,79 °F,75 °F,94 %,3 mph,0 mph,29.85 in,0.0 in,Mostly Cloudy,1
+429,August,2016,Myanmar,Magway,64 °F,52 °F,94 %,5 mph,0 mph,30.18 in,0.0 in,Fair,1
+430,August,2016,Myanmar,Yangon,77 °F,77 °F,89 %,2 mph,0 mph,29.82 in,0.0 in,Mostly Cloudy,1
+431,August,2016,Myanmar,Mandalay,28 °F,3 °F,87 %,0 mph,0 mph,30.17 in,0.0 in,Mostly Cloudy,1
+432,July,2018,Myanmar,Karen,61 °F,55 °F,53 %,0 mph,0 mph,22.90 in,0.0 in,Mostly Cloudy,1
+433,July,2018,Nepal,Kailali,77 °F,77 °F,90 %,3 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,1
+434,April,2016,Oman,Wadi Bani Karoos,61 °F,55 °F,53 %,0 mph,0 mph,22.90 in,0.0 in,Mostly Cloudy,1
+435,April,2016,Oman,Dhank province,81 °F,79 °F,94 %,3 mph,0 mph,29.65 in,0.0 in,Partly Cloudy,1
+436,April,2016,Oman,Wadi Kabeel,77 °F,77 °F,90 %,3 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,1
+437,August,2016,Pakistan,Gilgit-Baltistan,79 °F,77 °F,94 %,3 mph,0 mph,29.53 in,0.0 in,Cloudy,1
+438,August,2016,Pakistan,Punjab,67 °F,67 °F,96 %,0 mph,0 mph,28.77 in,0.0 in,Fair,1
+439,July,2016,Pakistan,Khyber Pakhtunkhwa,81 °F,75 °F,70 %,12 mph,23 mph,29.27 in,0.0 in,Mostly Cloudy,1
+440,August,2016,Pakistan,Balochistan,34 °F,32 °F,93 %,8 mph,0 mph,26.80 in,0.0 in,Fair,1
+441,April,2016,Pakistan,Orakzai,55 °F,52 °F,82 %,17 mph,0 mph,29.67 in,0.0 in,Mostly Cloudy,1
+442,August,2016,Pakistan,Balochistan,64 °F,62 °F,63 %,0 mph,0 mph,0.00 in,0.0 in,Fair,1
+443,September,2016,Pakistan,Balochistan state,77 °F,77 °F,94 %,5 mph,0 mph,29.68 in,0.0 in,Cloudy,1
+444,September,2017,Pakistan,Bajaur,77 °F,74 °F,91 %,0 mph,0 mph,29.80 in,0.0 in,Mostly Cloudy,1
+445,April,2017,Pakistan,Kashmir,81 °F,79 °F,94 %,14 mph,23 mph,29.18 in,0.0 in,Drizzle,1
+446,October,2016,Philippines,Ilocos region,77 °F,75 °F,90 %,5 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,1
+447,October,2016,Philippines,Benguet,74 °F,74 °F,98 %,6 mph,0 mph,27.25 in,0.0 in,Light Rain,1
+448,December,2016,Philippines,Abra,75 °F,46 °F,17 %,6 mph,0 mph,29.02 in,0.0 in,Fair,1
+449,February,2017,Philippines,Davao,79 °F,75 °F,70 %,9 mph,0 mph,29.59 in,0.0 in,Fair,1
+450,December,2017,Philippines,Lanao del Norte,77 °F,57 °F,50 %,0 mph,0 mph,29.01 in,0.0 in,Smoke,1
+451,February,2017,Philippines,Agusan del Sur,54 °F,50 °F,82 %,3 mph,0 mph,30.11 in,0.0 in,Fair,1
+452,February,2017,Philippines,Mindanao,55 °F,50 °F,82 %,8 mph,0 mph,29.72 in,0.0 in,Fair,1
+453,February,2017,Philippines,Agusan del Norte,82 °F,79 °F,94 %,13 mph,0 mph,29.62 in,0.0 in,Mostly Cloudy,1
+454,February,2017,Philippines,Davao Oriental,46 °F,36 °F,76 %,21 mph,0 mph,28.26 in,0.0 in,Rain,1
+455,February,2017,Philippines,Agusan del Sur,35 °F,33 °F,89 %,5 mph,0 mph,28.93 in,0.0 in,Cloudy,1
+456,February,2017,Philippines,Lanao del Sur and Maguindanao,95 °F,61 °F,32 %,8 mph,0 mph,29.57 in,0.0 in,Fair,1
+457,October,2017,Philippines,Talisay,82 °F,76 °F,82 %,2 mph,0 mph,29.65 in,0.0 in,Cloudy,1
+458,November,2016,Saudi Arabia,Riyadh,84 °F,72 °F,46 %,2 mph,0 mph,29.54 in,0.0 in,Fair,1
+459,November,2016,Saudi Arabia,Makkah,55 °F,44 °F,18 %,0 mph,0 mph,29.75 in,0.0 in,Fair,1
+460,November,2016,Saudi Arabia,Jizan,57 °F,50 °F,82 %,3 mph,0 mph,30.08 in,0.0 in,Fair,1
+461,April,2016,Saudi Arabia,Baha and Taif,63 °F,39 °F,62 %,7 mph,0 mph,23.26 in,0.0 in,Partly Cloudy,1
+462,April,2016,Saudi Arabia,Al-Baidhani valley of Asir region,15 °F,13 °F,91 %,3 mph,0 mph,22.62 in,0.0 in,Cloudy,1
+463,November,2017,Saudi Arabia,Al-Jouf,41 °F,36 °F,87 %,3 mph,0 mph,30.05 in,0.0 in,Mostly Cloudy,1
+464,June,2016,Sri Lanka,Colombo district,15 °F,13 °F,91 %,3 mph,0 mph,22.62 in,0.0 in,Cloudy,1
+465,June,2016,Sri Lanka,Kegalle district,77 °F,75 °F,79 %,8 mph,0 mph,29.59 in,0.0 in,Partly Cloudy,1
+466,November,2017,Sri Lanka,Kopay,70 °F,46 °F,100 %,7 mph,0 mph,0.00 in,0.0 in,Fair,1
+467,June,2017,Sri Lanka,Ratnapura,70 °F,46 °F,100 %,7 mph,0 mph,0.00 in,0.0 in,Fair,1
+468,May,2017,Sri Lanka,Hambantota,88 °F,78 °F,89 %,0 mph,0 mph,29.85 in,0.0 in,Mostly Cloudy,1
+469,December,2017,Sri Lanka,Gampaha,61 °F,59 °F,94 %,3 mph,0 mph,28.05 in,0.0 in,Haze,1
+470,October,2018,Sri Lanka,Rathnapura,88 °F,75 °F,79 %,0 mph,0 mph,29.78 in,0.0 in,Fair,1
+471,May,2018,Sri Lanka,Galle,61 °F,54 °F,72 %,0 mph,0 mph,25.27 in,0.0 in,Fair,1
+472,May,2018,Sri Lanka,Colombo,48 °F,34 °F,44 %,6 mph,0 mph,27.41 in,0.0 in,Fair,1
+473,October,2018,Sri Lanka,Kegalle districts,50 °F,46 °F,63 %,3 mph,0 mph,27.77 in,0.0 in,Fair,1
+474,May,2018,Sri Lanka,Kalutara,54 °F,52 °F,100 %,5 mph,0 mph,26.88 in,0.0 in,Cloudy,1
+475,May,2018,Sri Lanka,Kurunegala,72 °F,67 °F,57 %,2 mph,0 mph,28.61 in,0.0 in,Partly Cloudy,1
+476,October,2018,Sri Lanka,Gampaha,82 °F,69 °F,64 %,7 mph,0 mph,28.56 in,0.0 in,Mostly Cloudy,1
+477,January,2016,Thailand,Phatthalung,93 °F,62 °F,43 %,10 mph,0 mph,28.58 in,0.0 in,Fair,1
+478,January,2016,Thailand,Chumphon,88 °F,65 °F,46 %,12 mph,0 mph,28.50 in,0.0 in,Mostly Cloudy,1
+479,January,2016,Thailand,Nakhon Si Thammarat,72 °F,65 °F,67 %,6 mph,0 mph,28.76 in,0.0 in,Mostly Cloudy,1
+480,August,2016,Thailand,Yala,61 °F,59 °F,94 %,6 mph,0 mph,26.96 in,0.0 in,Cloudy,1
+481,January,2016,Thailand,Krabi,93 °F,62 °F,43 %,10 mph,0 mph,28.58 in,0.0 in,Fair,1
+482,January,2016,Thailand,Songkhla,70 °F,67 °F,91 %,0 mph,0 mph,28.57 in,0.0 in,Partly Cloudy,1
+483,January,2016,Thailand,Pattani,86 °F,64 °F,52 %,2 mph,0 mph,28.59 in,0.0 in,Partly Cloudy,1
+484,January,2016,Thailand,Narathiwat provinces,82 °F,73 °F,94 %,7 mph,0 mph,29.83 in,0.0 in,Partly Cloudy,1
+485,January,2016,Thailand,Surat Thani,82 °F,60 °F,49 %,0 mph,0 mph,28.67 in,0.0 in,Fair,1
+486,April,2016,Thailand,Trang,86 °F,64 °F,52 %,2 mph,0 mph,28.59 in,0.0 in,Partly Cloudy,1
+487,May,2016,Thailand,Nan,48 °F,39 °F,76 %,7 mph,0 mph,26.91 in,0.0 in,Fair,1
+488,November,2017,Thailand,Surat Thani,82 °F,60 °F,49 %,0 mph,0 mph,28.67 in,0.0 in,Fair,1
+489,November,2017,Thailand,Songkhla,82 °F,73 °F,94 %,7 mph,0 mph,29.83 in,0.0 in,Partly Cloudy,1
+490,November,2017,Thailand,Ranong provinces,86 °F,64 °F,52 %,2 mph,0 mph,28.59 in,0.0 in,Partly Cloudy,1
+491,November,2017,Thailand,Chumphon,86 °F,69 °F,57 %,5 mph,0 mph,28.52 in,0.0 in,Fair,1
+492,January,2017,Thailand,Phattalung,83 °F,66 °F,56 %,0 mph,0 mph,28.46 in,0.0 in,Partly Cloudy,1
+493,November,2017,Thailand,Nakhon Si Thammarat,82 °F,60 °F,49 %,0 mph,0 mph,28.67 in,0.0 in,Fair,1
+494,November,2017,Thailand,Pattani,82 °F,77 °F,100 %,2 mph,0 mph,29.84 in,0.0 in,Partly Cloudy,1
+495,November,2017,Thailand,Suphan Buri,79 °F,77 °F,100 %,2 mph,0 mph,29.73 in,0.0 in,Mostly Cloudy,1
+496,November,2017,Thailand,Ubon Ratchathani provinces,82 °F,81 °F,100 %,7 mph,0 mph,29.77 in,0.0 in,Light Rain Shower,1
+497,November,2017,Thailand,Nakhon Sawan,91 °F,73 °F,59 %,6 mph,0 mph,29.83 in,0.0 in,Fair,1
+498,November,2017,Thailand,Kalasin,100 °F,77 °F,70 %,0 mph,0 mph,29.78 in,0.0 in,Partly Cloudy,1
+499,November,2017,Thailand,Maha Sarakham,75 °F,75 °F,55 %,2 mph,0 mph,29.06 in,0.0 in,Partly Cloudy,1
+500,November,2017,Thailand,Ayutthaya,75 °F,75 °F,100 %,6 mph,0 mph,29.74 in,0.0 in,Rain,1
+501,November,2017,Thailand,Ang Thong,75 °F,75 °F,100 %,6 mph,0 mph,29.64 in,0.0 in,Mostly Cloudy,1
+502,November,2017,Thailand,Uthai Thani,84 °F,75 °F,94 %,0 mph,0 mph,29.74 in,0.0 in,Mostly Cloudy,1
+503,November,2017,Thailand,and Pichit,73 °F,71 °F,91 %,0 mph,0 mph,29.79 in,0.0 in,Cloudy,1
+504,May,2017,Thailand,Sing Buri,75 °F,75 °F,100 %,6 mph,0 mph,29.72 in,0.0 in,Rain,1
+505,May,2017,Thailand,Roi Et,79 °F,77 °F,89 %,5 mph,0 mph,29.69 in,0.0 in,Partly Cloudy,1
+506,November,2017,Thailand,Lop Buri,74 °F,75 °F,98 %,0 mph,0 mph,29.70 in,0.0 in,Cloudy,1
+507,November,2017,Thailand,Nong Bua Lam Phu,79 °F,77 °F,94 %,0 mph,0 mph,29.77 in,0.0 in,Mostly Cloudy,1
+508,February,2017,Thailand,Tak,77 °F,73 °F,89 %,3 mph,0 mph,29.77 in,0.0 in,Fair,1
+509,November,2017,Thailand,Pattani,81 °F,72 °F,83 %,2 mph,0 mph,29.77 in,0.0 in,Partly Cloudy,1
+510,April,2017,Thailand,Trang,70 °F,63 °F,51 %,12 mph,0 mph,29.37 in,0.0 in,Fair,1
+511,November,2017,Thailand,Surat Thani,88 °F,70 °F,78 %,0 mph,0 mph,29.78 in,0.0 in,Fair,1
+512,November,2017,Thailand,Phatthalung,81 °F,75 °F,89 %,3 mph,0 mph,29.83 in,0.0 in,Cloudy,1
+513,November,2017,Thailand,Kalasin,84 °F,79 °F,84 %,6 mph,0 mph,29.81 in,0.0 in,Fair,1
+514,September,2017,Thailand,Sakon Nakhon,91 °F,77 °F,89 %,0 mph,0 mph,29.49 in,0.0 in,Partly Cloudy,1
+515,August,2017,Thailand,Trat,79 °F,72 °F,74 %,7 mph,0 mph,29.81 in,0.0 in,Mostly Cloudy,1
+516,October,2017,Thailand,Phichit,82 °F,66 °F,58 %,0 mph,0 mph,29.26 in,0.0 in,Fair,1
+517,November,2017,Thailand,Ranong,78 °F,69 °F,73 %,0 mph,0 mph,29.46 in,0.0 in,Fair,1
+518,May,2017,Thailand,Chiang Rai,40 °F,24 °F,24 %,8 mph,0 mph,28.85 in,0.0 in,Cloudy,1
+519,November,2017,Thailand,Chumphon,79 °F,77 °F,94 %,0 mph,0 mph,29.77 in,0.0 in,Mostly Cloudy,1
+520,August,2017,Thailand,Nakhon Phanom,75 °F,75 °F,100 %,6 mph,0 mph,29.72 in,0.0 in,Rain,1
+521,November,2017,Thailand,Lop Buri,79 °F,77 °F,89 %,5 mph,0 mph,29.69 in,0.0 in,Partly Cloudy,1
+522,May,2017,Thailand,Lampang,75 °F,75 °F,100 %,6 mph,0 mph,29.64 in,0.0 in,Mostly Cloudy,1
+523,May,2017,Thailand,Chiang Mai,75 °F,75 °F,100 %,6 mph,0 mph,29.74 in,0.0 in,Rain,1
+524,July,2017,Afghanistan,Badakhshan,30 °F,28 °F,93 %,7 mph,0 mph,28.73 in,0.0 in,Fair,1
+525,July,2018,Cambodia,Phreah Sihanouk,81 °F,72 °F,83 %,2 mph,0 mph,29.77 in,0.0 in,Partly Cloudy,1
+526,August,2018,Cambodia,Kampot provinces,88 °F,70 °F,78 %,0 mph,0 mph,29.78 in,0.0 in,Fair,1
+527,August,2018,Cambodia,Koh Kong,81 °F,77 °F,89 %,0 mph,0 mph,29.19 in,0.0 in,Fair,1
+528,September,2018,Cambodia,Kampong Speu,82 °F,77 °F,84 %,9 mph,0 mph,29.74 in,0.0 in,Partly Cloudy,1
+529,June,2016,China,Guizhou Sheng provinces,73 °F,77 °F,100 %,0 mph,0 mph,28.38 in,0.0 in,Fair,1
+530,June,2016,China,Hunan Sheng,73 °F,71 °F,91 %,0 mph,0 mph,29.79 in,0.0 in,Cloudy,1
+531,June,2016,China,Jiangxi Sheng,79 °F,77 °F,94 %,2 mph,0 mph,29.22 in,0.0 in,Cloudy,1
+532,July,2016,China,Hunan,91 °F,77 °F,89 %,0 mph,0 mph,29.49 in,0.0 in,Partly Cloudy,1
+533,July,2016,China,Jiangxi,79 °F,72 °F,74 %,7 mph,0 mph,29.81 in,0.0 in,Mostly Cloudy,1
+534,October,2016,China,Guangxi,69 °F,44 °F,28 %,0 mph,0 mph,23.33 in,0.0 in,Fair,1
+535,September,2016,China,Zhejiang,82 °F,79 °F,89 %,5 mph,0 mph,29.73 in,0.0 in,Mostly Cloudy,1
+536,July,2016,China,Guizhou,79 °F,79 °F,94 %,5 mph,0 mph,29.62 in,0.0 in,Partly Cloudy,1
+537,July,2016,China,Yunnan,82 °F,77 °F,84 %,12 mph,0 mph,29.70 in,0.0 in,Partly Cloudy,1
+538,June,2016,China,Jiangxi Sheng,82 °F,79 °F,89 %,12 mph,0 mph,29.62 in,0.0 in,Partly Cloudy,1
+539,June,2016,China,Guizhou Sheng,91 °F,62 °F,46 %,5 mph,0 mph,29.14 in,0.0 in,Mostly Cloudy,1
+540,June,2016,China,Guangdong Sheng,91 °F,62 °F,46 %,5 mph,0 mph,29.14 in,0.0 in,Mostly Cloudy,1
+541,June,2016,China,Hunan Sheng,82 °F,82 °F,100 %,0 mph,0 mph,28.75 in,0.0 in,Fog,1
+542,July,2016,China,Hunan,68 °F,65 °F,90 %,6 mph,0 mph,29.18 in,0.0 in,Fair,1
+543,July,2016,China,Fujian provinces,60 °F,52 °F,40 %,8 mph,0 mph,29.27 in,0.0 in,Fair,1
+544,June,2016,China,Anhui Sheng,68 °F,65 °F,90 %,6 mph,0 mph,29.18 in,0.0 in,Fair,1
+545,June,2016,China,Yunnan Sheng,84 °F,77 °F,79 %,8 mph,0 mph,29.69 in,0.0 in,Mostly Cloudy,1
+546,July,2016,China,Chongqing Shi,81 °F,68 °F,69 %,3 mph,0 mph,29.12 in,0.0 in,Partly Cloudy,1
+547,June,2016,China,Guizhou Sheng provinces,90 °F,68 °F,49 %,2 mph,0 mph,28.66 in,0.0 in,Haze,1
+548,June,2016,China,Henan Sheng,91 °F,62 °F,46 %,5 mph,0 mph,29.14 in,0.0 in,Mostly Cloudy,1
+549,June,2016,China,Yunnan Sheng,77 °F,72 °F,83 %,6 mph,0 mph,28.62 in,0.0 in,Partly Cloudy,1
+550,July,2016,China,Chongqing Shi,91 °F,62 °F,46 %,5 mph,0 mph,29.14 in,0.0 in,Mostly Cloudy,1
+551,September,2016,China,Anhui,82 °F,82 °F,100 %,0 mph,0 mph,28.75 in,0.0 in,Fog,1
+552,July,2016,China,Guizhou,74 °F,70 °F,87 %,6 mph,0 mph,29.40 in,0.0 in,Partly Cloudy,1
+553,July,2016,China,Hunan,91 °F,62 °F,46 %,5 mph,0 mph,29.14 in,0.0 in,Mostly Cloudy,1
+554,October,2016,China,Guangxi,77 °F,72 °F,83 %,6 mph,0 mph,28.62 in,0.0 in,Partly Cloudy,1
+555,July,2016,China,Hubei,91 °F,62 °F,46 %,5 mph,0 mph,29.14 in,0.0 in,Mostly Cloudy,1
+556,September,2016,China,Jiangsu,51 °F,48 °F,83 %,10 mph,0 mph,29.21 in,0.0 in,Cloudy,1
+557,April,2016,China,Sichuan,84 °F,75 °F,70 %,7 mph,0 mph,28.13 in,0.0 in,Fair,1
+558,June,2016,China,Anhui Sheng,51 °F,48 °F,83 %,10 mph,0 mph,29.21 in,0.0 in,Cloudy,1
+559,June,2016,China,Yunnan Sheng,91 °F,62 °F,46 %,5 mph,0 mph,29.14 in,0.0 in,Mostly Cloudy,1
+560,June,2016,China,Guizhou Sheng,77 °F,72 °F,83 %,6 mph,0 mph,28.62 in,0.0 in,Partly Cloudy,1
+561,July,2016,China,Chongqing Shi,91 °F,62 °F,46 %,5 mph,0 mph,29.14 in,0.0 in,Mostly Cloudy,1
+562,June,2016,China,Jiangxi Sheng,84 °F,75 °F,70 %,7 mph,0 mph,28.13 in,0.0 in,Fair,1
+563,July,2015,India,Arunachal Pradesh,68 °F,65 °F,90 %,6 mph,0 mph,29.18 in,0.0 in,Fair,1
+564,October,2015,India,Uttar Pradesh,81 °F,68 °F,69 %,3 mph,0 mph,29.12 in,0.0 in,Partly Cloudy,1
+565,October,2015,India,Punjab,82 °F,82 °F,100 %,0 mph,0 mph,28.75 in,0.0 in,Fog,1
+566,April,2015,India,Jammu and Kashmir,68 °F,65 °F,90 %,6 mph,0 mph,29.18 in,0.0 in,Fair,1
+567,July,2015,India,Rajasthan,60 °F,52 °F,40 %,8 mph,0 mph,29.27 in,0.0 in,Fair,1
+568,May,2015,India,Manipur,91 °F,62 °F,46 %,5 mph,0 mph,29.14 in,0.0 in,Mostly Cloudy,1
+569,November,2015,India,Puducherry province,90 °F,68 °F,49 %,2 mph,0 mph,28.66 in,0.0 in,Haze,1
+570,July,2015,Indonesia,Bali,77 °F,72 °F,83 %,6 mph,0 mph,28.62 in,0.0 in,Partly Cloudy,1
+571,December,2015,Indonesia,Dki Jakarta,91 °F,62 °F,46 %,5 mph,0 mph,29.14 in,0.0 in,Mostly Cloudy,1
+572,November,2015,Iran,Kerman,84 °F,75 °F,70 %,7 mph,0 mph,28.13 in,0.0 in,Fair,1
+573,September,2015,Iran,Hormozgan province,72 °F,46 °F,93 %,2 mph,0 mph,28.56 in,0.0 in,Fair,1
+574,September,2015,Iran,Kerman provinces,69 °F,64 °F,87 %,6 mph,0 mph,29.06 in,0.0 in,Mostly Cloudy,1
+575,March,2015,Iran,Fars,45 °F,37 °F,74 %,10 mph,0 mph,28.95 in,0.0 in,Cloudy,1
+576,November,2015,Iraq,Baghdad,69 °F,64 °F,87 %,6 mph,0 mph,29.06 in,0.0 in,Mostly Cloudy,1
+577,September,2015,Japan,Miyagi,46 °F,41 °F,83 %,3 mph,0 mph,29.32 in,0.0 in,Partly Cloudy,1
+578,July,2015,Myanmar,Sagaing,77 °F,72 °F,76 %,5 mph,0 mph,29.11 in,0.0 in,Mostly Cloudy,1
+579,May,2015,Myanmar,Bago,29 °F,34 °F,93 %,10 mph,0 mph,29.03 in,0.0 in,Cloudy,1
+580,August,2015,Myanmar,Kayin,41 °F,42 °F,93 %,5 mph,0 mph,29.17 in,0.0 in,Light Rain,1
+581,September,2015,Myanmar,Mon,77 °F,72 °F,76 %,5 mph,0 mph,29.11 in,0.0 in,Mostly Cloudy,1
+582,January,2015,Myanmar,Rakhine,82 °F,77 °F,84 %,3 mph,0 mph,0.00 in,0.0 in,Fair,1
+583,July,2015,Myanmar,Mandalay,74 °F,74 °F,98 %,2 mph,0 mph,29.65 in,0.0 in,Cloudy,1
+584,June,2015,Myanmar,Kachin,68 °F,37 °F,20 %,7 mph,0 mph,24.38 in,0.0 in,Fair,1
+585,August,2015,Pakistan,Islamabad District,81 °F,70 °F,70 %,3 mph,0 mph,29.53 in,0.0 in,Fair,1
+586,April,2015,Pakistan,Jammu and Kashmir,59 °F,19 °F,22 %,7 mph,0 mph,24.42 in,0.0 in,Fair,1
+587,June,2015,Pakistan,Balochistan,66 °F,59 °F,88 %,14 mph,0 mph,29.79 in,0.0 in,Fair,1
+588,October,2015,Pakistan,Punjab,55 °F,48 °F,77 %,7 mph,0 mph,30.08 in,0.0 in,Fair,1
+589,January,2015,Saudi Arabia,Hail,38 °F,25 °F,60 %,0 mph,0 mph,29.01 in,0.0 in,Cloudy,1
+590,May,2015,Sri Lanka,Gampaha district,45 °F,32 °F,87 %,14 mph,0 mph,29.79 in,0.0 in,Mostly Cloudy,1
+591,December,2015,Sri Lanka,Puttalam district,25 °F,21 °F,69 %,8 mph,0 mph,26.40 in,0.0 in,Mostly Cloudy,1
+592,March,2018,Indonesia,West Nusa Tenggara,52 °F,46 °F,87 %,2 mph,0 mph,30.20 in,0.0 in,Fair,1
+593,February,2018,Indonesia,West Sulawesi,61 °F,55 °F,82 %,14 mph,0 mph,29.75 in,0.0 in,Partly Cloudy,1
+594,July,2018,China,Fujian,97 °F,66 °F,58 %,6 mph,0 mph,29.22 in,0.0 in,Fair,1
+0,January,2015,Nepal,Kathmandu,72 °F,66 °F,78 %,0 mph,0 mph,25.39 in,0.0 in,Mostly Cloudy,0
+1,May,2015,Nepal,Sindhupalchowk,56 °F,55 °F,97 %,5 mph,0 mph,27.64 in,0.0 in,Fair,0
+2,May,2015,Nepal,Sindhupalchowk,75 °F,71 °F,86 %,0 mph,0 mph,27.32 in,0.0 in,Mostly Cloudy,0
+3,February,2017,Bangladesh, Kutubdia,60 °F,62 °F,98 %,6 mph,0 mph,27.29 in,0.0 in,Fair,0
+4,August,2017,Bangladesh, Sitakunda,,,,,,,,,0
+5,September,2017,Pakistan,Sheikupura,56 °F,55 °F,97 %,5 mph,0 mph,27.64 in,0.0 in,Fair,0
+6,July,2017,Pakistan, Kasur,,,,,,,,,0
+7,July,2018,Nepal,SAptari,76 °F,49 °F,39 %,0 mph,0 mph,27.38 in,0.0 in,Fair,0
+8,September,2014,China,Fuquan Shi area ,76 °F,49 °F,39 %,0 mph,0 mph,27.38 in,0.0 in,Fair,0
+9,May,2017,China,Mao County,,,,,,,,,0
+10,March,2016,Indonesia, Padang Timur,75 °F,61 °F,65 %,0 mph,0 mph,29.07 in,0.0 in,Smoke,0
+11,March,2016,Indonesia, Lubuk Bengalung,68 °F,65 °F,90 %,0 mph,0 mph,0.00 in,0.0 in,Fair,0
+12,February,2016,Indonesia, Padang Selatan,,,,,,,,,0
+13,February,2018,Indonesia, Wanarej,81 °F,73 °F,83 %,9 mph,0 mph,29.56 in,0.0 in,Cloudy,0
+14,July,2015,Nepal, Myagdi area ,,,,,,,,,0
+15,July,2017,Nepal, Syangja,78 °F,78 °F,95 %,0 mph,0 mph,29.66 in,0.0 in,Fair,0
+16,December,2017,Nepal, Kaski,78 °F,78 °F,95 %,0 mph,0 mph,29.66 in,0.0 in,Fair,0
+17,July,2015,Pakistan, Chakwal District,76 °F,75 °F,96 %,0 mph,0 mph,29.73 in,0.0 in,Mostly Cloudy,0
+18,April,2015,Pakistan, Kasur District,78 °F,78 °F,95 %,0 mph,0 mph,29.66 in,0.0 in,Fair,0
+19,August,2015,China, Gengma Dai-Wa Zizhixian areas ,77 °F,76 °F,93 %,0 mph,0 mph,29.90 in,0.0 in,Fair,0
+20,August,2014,Bangladesh,Netrokona,82 °F,76 °F,81 %,0 mph,0 mph,29.75 in,0.0 in,Cloudy,0
+21,August,2014,Bangladesh,Tangail,77 °F,76 °F,93 %,0 mph,0 mph,29.90 in,0.0 in,Fair,0
+22,August,2015,Bangladesh,Dinajpur,77 °F,76 °F,93 %,0 mph,0 mph,29.90 in,0.0 in,Fair,0
+23,August,2015,Bangladesh,Gaibandha,77 °F,76 °F,93 %,0 mph,0 mph,29.90 in,0.0 in,Fair,0
+24,July,2015,Bangladesh,Sherpur,82 °F,76 °F,81 %,0 mph,0 mph,29.75 in,0.0 in,Cloudy,0
+25,September,2015,India,Madhubani,77 °F,76 °F,93 %,0 mph,0 mph,29.90 in,0.0 in,Fair,0
+26,June,2015,India,Supaul,78 °F,76 °F,95 %,0 mph,0 mph,29.78 in,0.0 in,Fair,0
+27,September,2014,Philippines,Valenzuela,82 °F,76 °F,81 %,0 mph,0 mph,29.75 in,0.0 in,Cloudy,0
+28,March,2014,Philippines,Pangasinan 1-Lingayen,82 °F,76 °F,81 %,0 mph,0 mph,29.75 in,0.0 in,Cloudy,0
+29,December,2014,Philippines,Davao region,78 °F,76 °F,96 %,0 mph,0 mph,29.75 in,0.0 in,Partly Cloudy,0
+30,October,2015,Philippines,Maconacon,78 °F,76 °F,96 %,0 mph,0 mph,29.75 in,0.0 in,Partly Cloudy,0
+31,February,2015,Philippines,Santa Teresita,77 °F,77 °F,96 %,0 mph,0 mph,29.85 in,0.0 in,Fair,0
+32,August,2015,Bangladesh,Mymensingh,83 °F,76 °F,93 %,6 mph,0 mph,29.71 in,0.0 in,Mostly Cloudy,0
+33,July,2014,Philippines,Caloocan,83 °F,76 °F,93 %,6 mph,0 mph,29.71 in,0.0 in,Mostly Cloudy,0
+34,October,2016,China,Quzhou district,83 °F,76 °F,93 %,6 mph,0 mph,29.71 in,0.0 in,Mostly Cloudy,0
+35,May,2017,China, Zhuhai,76 °F,76 °F,94 %,0 mph,0 mph,29.80 in,0.0 in,Mostly Cloudy,0
+36,June,2018,China,Yuxi ,76 °F,76 °F,94 %,0 mph,0 mph,29.80 in,0.0 in,Mostly Cloudy,0
+37,May,2018,China, Zhanjiang,76 °F,76 °F,94 %,0 mph,0 mph,29.80 in,0.0 in,Mostly Cloudy,0
+38,May,2016,India, Bishnupur,76 °F,76 °F,94 %,0 mph,0 mph,29.80 in,0.0 in,Mostly Cloudy,0
+39,May,2016,India, East Imphal,78 °F,77 °F,96 %,2 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,0
+40,May,2016,India, Tamenglong districts ,42 °F,50 °F,98 %,2 mph,0 mph,27.69 in,0.0 in,Fair,0
+41,May,2016,India, Thoubal,,,,,,,,,0
+42,December,2016,India,Kamrup district,86 °F,74 °F,95 %,0 mph,0 mph,27.28 in,0.0 in,Cloudy,0
+43,August,2016,India,Chennai district ,86 °F,74 °F,95 %,0 mph,0 mph,27.28 in,0.0 in,Cloudy,0
+44,August,2016,India, Patna,86 °F,74 °F,95 %,0 mph,0 mph,27.28 in,0.0 in,Cloudy,0
+45,August,2016,India, Siwan districts ,86 °F,76 °F,97 %,5 mph,0 mph,26.88 in,0.0 in,Mostly Cloudy,0
+46,June,2017,India, Kurunthancode,86 °F,74 °F,95 %,0 mph,0 mph,27.28 in,0.0 in,Cloudy,0
+47,November,2017,India, Tuticorin districts,,,,,,,,,0
+48,June,2017,India, Tirunelveli,82 °F,79 °F,94 %,5 mph,0 mph,29.69 in,0.0 in,Mostly Cloudy,0
+49,August,2017,India,Maldah ,86 °F,74 °F,95 %,0 mph,0 mph,27.28 in,0.0 in,Cloudy,0
+50,August,2017,India, Samastipur,74 °F,59 °F,44 %,8 mph,0 mph,27.50 in,0.0 in,Partly Cloudy,0
+51,August,2017,India, Vaishali,,,,,,,,,0
+52,August,2017,India,Jamui,73 °F,73 °F,87 %,0 mph,0 mph,27.42 in,0.0 in,Cloudy,0
+53,September,2017,India, Patna,82 °F,76 °F,90 %,0 mph,0 mph,0.00 in,0.0 in,Light Rain Shower,0
+54,August,2017,India, Sasaram ,86 °F,74 °F,95 %,0 mph,0 mph,27.28 in,0.0 in,Cloudy,0
+55,March,2017,India,Vaishali,86 °F,76 °F,97 %,5 mph,0 mph,26.88 in,0.0 in,Mostly Cloudy,0
+56,August,2017,India, Saran,,,,,,,,,0
+57,December,2017,India, Nalanda districts ,73 °F,73 °F,87 %,0 mph,0 mph,27.42 in,0.0 in,Cloudy,0
+58,September,2017,India, Gaya,73 °F,73 °F,87 %,0 mph,0 mph,27.42 in,0.0 in,Cloudy,0
+59,October,2018,India,Mandasa,72 °F,70 °F,94 %,3 mph,0 mph,25.41 in,0.0 in,Mostly Cloudy,0
+60,May,2018,India, Gajapati,74 °F,74 °F,98 %,6 mph,0 mph,27.25 in,0.0 in,Light Rain,0
+61,October,2018,India, Kandhamal ,,,,,,,,,0
+62,October,2018,India, Ganjam,72 °F,72 °F,98 %,0 mph,0 mph,26.85 in,0.0 in,Light Rain,0
+63,October,2018,India, Thanjavur,,,,,,,,,0
+64,October,2018,India,  Nagapattinam,75 °F,72 °F,83 %,5 mph,0 mph,0.00 in,0.0 in,Smoke,0
+65,May,2018,India, Dindigul and Ramnad,88 °F,79 °F,75 %,8 mph,0 mph,0.00 in,0.0 in,Smoke,0
+66,August,2018,India, Madurai districts,95 °F,80 °F,47 %,2 mph,0 mph,0.00 in,0.0 in,Fair,0
+67,September,2016,Indonesia,Pidie Jaya district ,77 °F,74 °F,60 %,0 mph,0 mph,0.00 in,0.0 in,Fair,0
+68,September,2016,Indonesia,Dompu district ,,,,,,,,,0
+69,December,2018,Indonesia, Bogor ,75 °F,70 °F,87 %,10 mph,0 mph,29.20 in,0.0 in,Cloudy,0
+70,April,2018,Indonesia, Lebak,106 °F,66 °F,46 %,0 mph,0 mph,28.77 in,0.0 in,Fair,0
+71,February,2018,Indonesia, Serang ,75 °F,74 °F,72 %,0 mph,0 mph,29.77 in,0.0 in,Partly Cloudy,0
+72,December,2018,Indonesia, Cianjur,75 °F,74 °F,72 %,0 mph,0 mph,29.77 in,0.0 in,Partly Cloudy,0
+73,October,2018,Indonesia, Sukabumi,82 °F,77 °F,84 %,0 mph,0 mph,29.85 in,0.0 in,Fair,0
+74,September,2018,Indonesia, Central Lombok,75 °F,76 °F,98 %,0 mph,0 mph,29.78 in,0.0 in,Partly Cloudy,0
+75,July,2018,Indonesia, Sigi,75 °F,46 °F,33 %,0 mph,0 mph,29.31 in,0.0 in,Fair,0
+76,November,2018,Indonesia, Mamuju Utara ,86 °F,74 °F,95 %,0 mph,0 mph,27.28 in,0.0 in,Cloudy,0
+77,September,2018,Indonesia, Palu,55 °F,51 °F,87 %,5 mph,0 mph,27.32 in,0.0 in,Fair,0
+78,September,2018,Indonesia, Poso,73 °F,71 °F,91 %,0 mph,0 mph,27.12 in,0.0 in,Mostly Cloudy,0
+79,August,2017,Kyrgyzstan, Shibee villages ,,,,,,,,,0
+80,August,2016,Bangladesh, Panchagarh districts ,61 °F,57 °F,88 %,3 mph,0 mph,29.16 in,0.0 in,Smoke,0
+81,August,2016,Bangladesh, Jamalpur districts ,79 °F,77 °F,94 %,6 mph,0 mph,29.80 in,0.0 in,Light Rain Shower,0
+82,August,2016,Bangladesh,Mohanpur,,,,,,,,,0
+83,January,2016,Bangladesh, Rajbari,82 °F,79 °F,89 %,0 mph,0 mph,29.67 in,0.0 in,Haze,0
+84,January,2016,Bangladesh,Raiganj,,,,,,,,,0
+85,December,2017,Malaysia,Miri and Limbang,82 °F,79 °F,89 %,0 mph,0 mph,29.67 in,0.0 in,Haze,0
+86,January,2017,Malaysia, Kota Belud,,,,,,,,,0
+87,January,2017,Malaysia,Miri and Limbang,,,,,,,,,0
+88,January,2017,Malaysia,Penampang,,,,,,,,,0
+89,January,2016,Bangladesh, Chandpur ,82 °F,79 °F,89 %,0 mph,0 mph,29.61 in,0.0 in,Haze,0
+90,January,2016,Bangladesh, CoxÕs Bazar,82 °F,79 °F,89 %,0 mph,0 mph,29.61 in,0.0 in,Haze,0
+91,June,2016,Bangladesh, Barguna,,,,,,,,,0
+92,August,2016,Bangladesh, Patuakhali,,,,,,,,,0
+93,August,2016,Bangladesh, Lakshmipur,,,,,,,,,0
+94,June,2017,Bangladesh, Feni,82 °F,79 °F,89 %,0 mph,0 mph,29.61 in,0.0 in,Haze,0
+95,July,2017,Bangladesh,All upazillas,,,,,,,,,0
+96,October,2016,Pakistan, Rawalpindi,,,,,,,,,0
+97,July,2017,Pakistan, Bahawalnagar,,,,,,,,,0
+98,July,2017,Afghanistan,Darzab district ,76 °F,70 °F,76 %,6 mph,0 mph,29.71 in,0.0 in,Fair,0
+99,June,2017,Philippines,Puerto Princesa City,80 °F,77 °F,90 %,0 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,0
+100,May,2017,Philippines, Lagonoy,,,,,,,,,0
+101,December,2017,Philippines,Busuanga town,82 °F,79 °F,89 %,0 mph,0 mph,29.28 in,0.0 in,Haze,0
+102,June,2017,Philippines,Barangay Sibaguan near Sagnay town,58 °F,38 °F,46 %,0 mph,0 mph,23.43 in,0.0 in,Fair,0
+103,June,2017,Philippines,Tugaya,86 °F,69 °F,59 %,3 mph,0 mph,27.52 in,0.0 in,Mostly Cloudy,0
+104,November,2017,Philippines, Piagapo,67 °F,67 °F,93 %,3 mph,0 mph,28.96 in,0.0 in,Fair,0
+105,September,2017,Philippines,Kananga ,97 °F,73 °F,32 %,16 mph,0 mph,29.04 in,0.0 in,Widespread Dust,0
+106,September,2017,Philippines, Ormoc City,,,,,,,,,0
+107,September,2017,Philippines, Carigara,,,,,,,,,0
+108,May,2017,Afghanistan, Pashtoonkot,88 °F,81 °F,75 %,6 mph,0 mph,29.58 in,0.0 in,Haze,0
+109,September,2016,Tajikistan,Garmskiy district,82 °F,79 °F,93 %,7 mph,0 mph,29.22 in,0.0 in,Mostly Cloudy,0
+110,April,2018,Yemen, Man'ar,,,,,,,,,0
+111,October,2018,Yemen,"
+
+Hawf districts",,,,,,,,,0
+112,October,2018,Yemen, Sayhut,80 °F,75 °F,77 %,0 mph,0 mph,29.66 in,0.0 in,Cloudy,0
+113,August,2016,China,Yancheng city ,80 °F,75 °F,77 %,0 mph,0 mph,29.66 in,0.0 in,Cloudy,0
+114,July,2016,Japan, Kawanehoncho,85 °F,74 °F,73 %,0 mph,0 mph,29.73 in,0.0 in,Mostly Cloudy,0
+115,June,2016,China,Sanming district ,80 °F,75 °F,77 %,0 mph,0 mph,29.66 in,0.0 in,Cloudy,0
+116,August,2017,China,Nanzhang county ,80 °F,75 °F,77 %,0 mph,0 mph,29.66 in,0.0 in,Cloudy,0
+117,September,2017,China,Bijie ,42 °F,35 °F,77 %,0 mph,0 mph,29.47 in,0.0 in,Mostly Cloudy,0
+118,July,2015,Afghanistan,Geriy Bala village ,,,,,,,,,0
+119,September,2017,Afghanistan,Dawaz Bala ,100 °F,61 °F,67 %,0 mph,0 mph,0.00 in,0.0 in,Fair,0
+120,September,2014,India,Pune district,63 °F,52 °F,68 %,0 mph,0 mph,28.77 in,0.0 in,Haze,0
+121,September,2015,India, Tinsukia,79 °F,72 °F,83 %,0 mph,0 mph,0.00 in,0.0 in,Cloudy,0
+122,July,2015,India, Lakhimpur,77 °F,72 °F,78 %,10 mph,0 mph,29.39 in,0.0 in,Fair,0
+123,September,2015,India, Kamrup,,,,,,,,,0
+124,September,2015,India,Barpeta,77 °F,73 °F,86 %,0 mph,0 mph,29.48 in,0.0 in,Cloudy,0
+125,September,2015,India, Bongaigaon districts ,84 °F,77 °F,89 %,3 mph,0 mph,29.78 in,0.0 in,Mostly Cloudy,0
+126,July,2015,India, Jorhat,63 °F,58 °F,81 %,2 mph,0 mph,25.10 in,0.0 in,Fair,0
+127,September,2015,India, Nalbari,79 °F,75 °F,89 %,5 mph,0 mph,29.71 in,0.0 in,Cloudy,0
+128,September,2015,India, Sonitpur,75 °F,74 °F,88 %,0 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,0
+129,September,2015,India, Goalpara,71 °F,62 °F,87 %,5 mph,0 mph,29.72 in,0.0 in,Fair,0
+130,May,2015,India, Darrang,,,,,,,,,0
+131,July,2015,India, Nagaon,,,,,,,,,0
+132,February,2015,India, Dibrugarh,81 °F,68 °F,69 %,8 mph,0 mph,29.86 in,0.0 in,Fair,0
+133,December,2017,India,Ganderbal district,63 °F,62 °F,98 %,2 mph,0 mph,25.07 in,0.0 in,Rain,0
+134,June,2014,Indonesia,Jemblung area,70 °F,73 °F,94 %,0 mph,0 mph,29.54 in,0.0 in,Mostly Cloudy,0
+135,June,2015,Indonesia,Tegalpanjang village,54 °F,49 °F,88 %,0 mph,0 mph,0.00 in,0.0 in,Thunder,0
+136,June,2016,Indonesia, Pangambiran,,,,,,,,,0
+137,June,2016,Indonesia, Kebumen,60 °F,45 °F,53 %,0 mph,0 mph,23.46 in,0.0 in,Fair,0
+138,June,2016,Indonesia, Rembang,55 °F,39 °F,81 %,0 mph,0 mph,28.45 in,0.0 in,Partly Cloudy,0
+139,February,2016,Indonesia, Karanganyar,52 °F,45 °F,82 %,7 mph,0 mph,28.40 in,0.0 in,Light Rain Shower,0
+140,February,2016,Indonesia,Karangrejo Loano,82 °F,77 °F,89 %,12 mph,0 mph,29.58 in,0.0 in,Haze,0
+141,February,2017,Indonesia, and Sumbawa.,78 °F,75 °F,80 %,14 mph,0 mph,29.61 in,0.0 in,Mostly Cloudy,0
+142,February,2017,Indonesia, Lombok,79 °F,77 °F,100 %,1 mph,0 mph,29.74 in,0.0 in,Partly Cloudy,0
+143,February,2017,Indonesia,Kintamani district ,,,,,,,,,0
+144,February,2018,Indonesia,  Bandung,,,,,,,,,0
+145,February,2018,Indonesia, Purbalingga,,,,,,,,,0
+146,July,2018,Indonesia, Pangandaran,70 °F,69 °F,96 %,6 mph,0 mph,29.14 in,0.0 in,Fair,0
+147,July,2015,Myanmar,Hpasawng village ,,,,,,,,,0
+148,July,2016,Myanmar,Hpakant region ,70 °F,61 °F,73 %,2 mph,0 mph,28.11 in,0.0 in,Fair,0
+149,July,2017,Bangladesh, Rangamati,84 °F,72 °F,84 %,11 mph,0 mph,29.18 in,0.0 in,Fog,0
+150,July,2017,Bangladesh, Khagrachari,,,,,,,,,0
+151,September,2017,Nepal,Parbat,75 °F,73 °F,83 %,7 mph,0 mph,29.86 in,0.0 in,Fair,0
+152,January,2017,Pakistan,Tehsil Garam Chashma,79 °F,79 °F,100 %,4 mph,0 mph,27.99 in,0.0 in,Partly Cloudy,0
+153,March,2014,Indonesia, Kebumen,84 °F,64 °F,78 %,4 mph,0 mph,28.07 in,0.0 in,Fair,0
+154,February,2014,Indonesia, Kota Surabaya,,,,,,,,,0
+155,June,2015,Indonesia,Jayawijaya district,70 °F,63 °F,84 %,3 mph,0 mph,28.25 in,0.0 in,Fair,0
+156,July,2017,Indonesia,Karangasem,63 °F,63 °F,100 %,7 mph,0 mph,28.39 in,0.0 in,Light Rain,0
+157,May,2018,Philippines, Malilipot municipalities ,,,,,,,,,0
+158,September,2018,Philippines, Daraga,55 °F,55 °F,100 %,11 mph,0 mph,23.90 in,0.0 in,Mostly Cloudy,0
+159,July,2018,Philippines, Camalig,,,,,,,,,0
+160,July,2018,Philippines, Tabao,,,,,,,,,0
+161,November,2015,India, Nabarangpur,72 °F,71 °F,95 %,3 mph,0 mph,27.05 in,0.0 in,Partly Cloudy,0
+162,September,2015,Indonesia,Sorong district ,72 °F,71 °F,95 %,3 mph,0 mph,27.05 in,0.0 in,Partly Cloudy,0
+163,July,2015,Kyrgyzstan,Chong-Alay,72 °F,71 °F,95 %,3 mph,0 mph,27.05 in,0.0 in,Partly Cloudy,0
+164,July,2015,Kyrgyzstan, Aravan districts ,37 °F,27 °F,70 %,6 mph,0 mph,29.45 in,0.0 in,Cloudy,0
+165,July,2015,Kyrgyzstan, Kara-Suu,88 °F,70 °F,55 %,9 mph,0 mph,29.53 in,0.0 in,Fair,0
+166,March,2015,Pakistan, Jhang District,91 °F,81 °F,75 %,7 mph,0 mph,29.35 in,0.0 in,Haze,0
+167,June,2015,Bangladesh, Bogra,91 °F,79 °F,94 %,8 mph,0 mph,29.23 in,0.0 in,Haze,0
+168,August,2015,Bangladesh, Narayanganj,83 °F,80 °F,95 %,0 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,0
+169,July,2015,Bangladesh, Naogaon,75 °F,74 °F,96 %,0 mph,0 mph,27.48 in,0.0 in,Cloudy,0
+170,April,2015,Bangladesh, Habiganj district ,91 °F,79 °F,94 %,8 mph,0 mph,29.23 in,0.0 in,Haze,0
+171,October,2015,Philippines, Sapad areas ,,,,,,,,,0
+172,July,2015,Tajikistan, Shugnanskiy,91 °F,79 °F,94 %,8 mph,0 mph,29.23 in,0.0 in,Haze,0
+173,March,2015,Tajikistan,Badakhshoni Kuni province,91 °F,81 °F,71 %,5 mph,0 mph,29.47 in,0.0 in,Haze,0
+174,July,2015,Thailand,Ban Laem district,82 °F,76 °F,73 %,0 mph,0 mph,0.00 in,0.0 in,Cloudy,0
+175,July,2015,Bangladesh, Barguna districts ,86 °F,76 °F,94 %,0 mph,0 mph,29.47 in,0.0 in,Mostly Cloudy,0
+176,June,2015,Bangladesh, Bhola,90 °F,80 °F,74 %,2 mph,0 mph,29.46 in,0.0 in,Fair,0
+177,April,2015,Afghanistan,Eshkmesh district,,,,,,,,,0
+178,March,2015,China,Shigatse district ,80 °F,81 °F,96 %,6 mph,0 mph,29.33 in,0.0 in,Mostly Cloudy,0
+179,September,2018,Mongolia, Erdeneburen ,,,,,,,,,0
+180,July,2018,Mongolia, Khukhmorit ,90 °F,75 °F,77 %,0 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,0
+181,July,2018,Mongolia, Munkhkhairkhan,90 °F,80 °F,74 %,2 mph,0 mph,29.46 in,0.0 in,Fair,0
+182,June,2018,Mongolia, Tsetseg,79 °F,77 °F,94 %,0 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,0
+183,June,2018,Mongolia, Ulaangom,91 °F,81 °F,71 %,5 mph,0 mph,29.47 in,0.0 in,Haze,0
+184,March,2018,Mongolia, Tonkhil,86 °F,76 °F,84 %,0 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,0
+185,May,2017,China,Puge ,81 °F,81 °F,100 %,5 mph,0 mph,29.41 in,0.0 in,Haze,0
+186,April,2015,Nepal, Taplejung area ,91 °F,79 °F,68 %,3 mph,0 mph,29.08 in,0.0 in,Mostly Cloudy,0
+187,May,2015,Nepal,Taplejung area ,88 °F,79 °F,75 %,7 mph,0 mph,29.26 in,0.0 in,Mostly Cloudy,0
+188,May,2014,Afghanistan,Faryab,97 °F,74 °F,53 %,13 mph,0 mph,29.41 in,0.0 in,Fair,0
+189,April,2014,Afghanistan,Kabul,81 °F,81 °F,100 %,5 mph,0 mph,29.41 in,0.0 in,Haze,0
+190,May,2014,Afghanistan,Kunduz,90 °F,80 °F,74 %,2 mph,0 mph,29.46 in,0.0 in,Fair,0
+191,August,2014,Bangladesh,Naogaon,,,,,,,,,0
+192,August,2014,Bangladesh,Faridpur district,,,,,,,,,0
+193,December,2015,Bangladesh,Bogra,88 °F,79 °F,75 %,7 mph,0 mph,29.26 in,0.0 in,Mostly Cloudy,0
+194,November,2015,Bangladesh,Bagerhat,,,,,,,,,0
+195,November,2015,Bangladesh,Sunamganj,90 °F,75 °F,77 %,0 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,0
+196,April,2014,China,Yutian,,,,,,,,,0
+197,November,2014,China,Henan,80 °F,78 °F,100 %,6 mph,0 mph,0.00 in,0.0 in,Cloudy,0
+198,June,2014,China,Chongqing,,,,,,,,,0
+199,November,2014,China,Guizhou,81 °F,78 °F,89 %,0 mph,0 mph,0.00 in,0.0 in,Partly Cloudy,0
+200,June,2014,China,Jiangxi,,,,,,,,,0
+201,April,2014,China,Anhui,80 °F,78 °F,100 %,6 mph,0 mph,0.00 in,0.0 in,Cloudy,0
+202,November,2014,China,Chongqing,78 °F,80 °F,100 %,5 mph,0 mph,0.00 in,0.0 in,Cloudy,0
+203,September,2014,China,Hubei,75 °F,71 °F,89 %,5 mph,0 mph,27.52 in,0.0 in,Mostly Cloudy,0
+204,April,2014,China,Hunan,68 °F,66 °F,90 %,8 mph,0 mph,29.14 in,0.0 in,Mostly Cloudy,0
+205,November,2014,China,Jiangxi,,,,,,,,,0
+206,November,2014,China,Qinghai,,,,,,,,,0
+207,November,2014,China,Shaanxi,84 °F,79 °F,84 %,9 mph,0 mph,29.33 in,0.0 in,Partly Cloudy,0
+208,November,2014,China,Hainan,,,,,,,,,0
+209,November,2014,China,Guizhou,77 °F,76 °F,100 %,12 mph,0 mph,27.74 in,0.0 in,Light Rain Shower,0
+210,November,2014,China,Shanxi,,,,,,,,,0
+211,April,2014,China,Jiangxi,79 °F,75 °F,89 %,3 mph,0 mph,28.49 in,0.0 in,Haze,0
+212,November,2014,China,Guizhou,,,,,,,,,0
+213,November,2014,China,Xishui,77 °F,76 °F,100 %,12 mph,0 mph,27.74 in,0.0 in,Light Rain Shower,0
+214,September,2014,China,Fengjie,74 °F,73 °F,97 %,0 mph,0 mph,0.00 in,0.0 in,Fair,0
+215,June,2014,India,Hyderabad,,,,,,,,,0
+216,August,2014,India,Kashmir,83 °F,79 °F,87 %,0 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,0
+217,July,2014,India,New Delhi,57 °F,55 °F,72 %,3 mph,0 mph,28.36 in,0.0 in,Fair,0
+218,June,2014,India,Ghaziabad,78 °F,76 °F,95 %,0 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,0
+219,March,2014,India,Chhattisgarh,79 °F,74 °F,84 %,5 mph,0 mph,0.00 in,0.0 in,Cloudy,0
+220,April,2014,India,Visakhapathnam city,103 °F,50 °F,20 %,0 mph,0 mph,0.00 in,0.0 in,Partly Cloudy,0
+221,October,2015,India,Rajsthan,83 °F,79 °F,87 %,0 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,0
+222,September,2015,India,Bihar,77 °F,76 °F,100 %,12 mph,0 mph,27.74 in,0.0 in,Light Rain Shower,0
+223,February,2015,India,Siikim,,,,,,,,,0
+224,February,2015,India,Bihar state,,,,,,,,,0
+225,June,2014,Iran,Bastak,,,,,,,,,0
+226,July,2014,Iran,Abdanan,74 °F,70 °F,85 %,3 mph,0 mph,27.90 in,0.0 in,Mostly Cloudy,0
+227,January,2014,Japan,Kanagawa,79 °F,79 °F,89 %,6 mph,0 mph,29.40 in,0.0 in,Haze,0
+228,September,2014,Japan,Honshu Island,74 °F,70 °F,85 %,3 mph,0 mph,27.90 in,0.0 in,Mostly Cloudy,0
+229,April,2014,Japan,Honshu Island,,,,,,,,,0
+230,August,2014,Japan,Nara,,,,,,,,,0
+231,August,2014,Japan,Honshu Island,73 °F,71 °F,95 %,2 mph,0 mph,27.75 in,0.0 in,Light Rain Shower,0
+232,April,2014,Japan,Sugadaira/NaganoTohoku,85 °F,78 °F,87 %,7 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,0
+233,April,2014,Japan,Sendai,85 °F,78 °F,87 %,7 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,0
+234,August,2014,Japan,Shihoku Island,80 °F,76 °F,89 %,12 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,0
+235,August,2014,Japan,Aichi,81 °F,74 °F,80 %,6 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,0
+236,December,2014,Japan,Kyushu Island,,,,,,,,,0
+237,April,2014,Japan,Tokushima,,,,,,,,,0
+238,April,2014,Japan,Nagoya,81 °F,79 °F,86 %,0 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,0
+239,November,2015,Lebanon,Akkar,,,,,,,,,0
+240,July,2015,Myanmar,North,,,,,,,,,0
+241,June,2015,Myanmar,North,,,,,,,,,0
+242,July,2015,Nepal,Gorkha,,,,,,,,,0
+243,October,2014,Pakistan,Peshawar,,,,,,,,,0
+244,January,2014,Philippines,Agusan del Norte,86 °F,73 °F,91 %,0 mph,0 mph,27.15 in,0.0 in,Partly Cloudy,0
+245,March,2014,Philippines,Agusan del Sur,84 °F,79 °F,84 %,7 mph,0 mph,29.51 in,0.0 in,Haze,0
+246,April,2014,Philippines,Camiguin,86 °F,73 °F,91 %,0 mph,0 mph,27.15 in,0.0 in,Partly Cloudy,0
+247,January,2014,Philippines,Caraga,68 °F,67 °F,96 %,3 mph,0 mph,29.02 in,0.0 in,Cloudy,0
+248,July,2014,Philippines,Soccsksargen,75 °F,73 °F,94 %,9 mph,0 mph,29.49 in,0.0 in,Light Drizzle,0
+249,January,2014,Philippines,Sutigao del Norte,86 °F,79 °F,89 %,3 mph,0 mph,29.54 in,0.0 in,Haze,0
+250,February,2014,Philippines,Antiqu,,,,,,,,,0
+251,March,2014,Philippines,Biliran,81 °F,79 °F,94 %,3 mph,0 mph,29.47 in,0.0 in,Haze,0
+252,July,2014,Philippines,Caraga,81 °F,79 °F,94 %,3 mph,0 mph,29.47 in,0.0 in,Haze,0
+253,November,2014,Philippines,Central Luzon,,,,,,,,,0
+254,November,2014,Philippines,IV-A,78 °F,75 °F,95 %,0 mph,0 mph,27.30 in,0.0 in,Mostly Cloudy,0
+255,April,2014,Philippines,Central Luzon,83 °F,82 °F,82 %,0 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,0
+256,August,2014,Philippines,V,82 °F,58 °F,68 %,6 mph,0 mph,28.99 in,0.0 in,Mostly Cloudy,0
+257,November,2014,Philippines,Naga city.,81 °F,78 °F,96 %,0 mph,0 mph,0.00 in,0.0 in,Cloudy,0
+258,April,2014,Philippines,Central Luzon,,,,,,,,,0
+259,January,2014,Philippines,V,82 °F,80 °F,92 %,2 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,0
+260,January,2014,Philippines,VIII,68 °F,67 °F,96 %,3 mph,0 mph,29.02 in,0.0 in,Cloudy,0
+261,January,2014,Philippines,Central Luzon,78 °F,78 °F,89 %,3 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,0
+262,November,2014,Philippines,Central Luzon,,,,,,,,,0
+263,September,2014,Philippines,Cagayan Valley,82 °F,79 °F,92 %,0 mph,0 mph,0.00 in,0.0 in,Fair,0
+264,February,2014,Philippines,Cagayan Valley,72 °F,66 °F,87 %,10 mph,0 mph,29.13 in,0.0 in,Partly Cloudy,0
+265,February,2014,Philippines,Rodriguez,,,,,,,,,0
+266,February,2014,Philippines,Aurora,,,,,,,,,0
+267,February,2014,Philippines,Bataan,81 °F,79 °F,95 %,0 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,0
+268,February,2014,Philippines,Western Visayas,68 °F,67 °F,96 %,3 mph,0 mph,29.02 in,0.0 in,Cloudy,0
+269,June,2014,Philippines,Western Visayas,89 °F,82 °F,95 %,0 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,0
+270,January,2014,Philippines,Kalinga,96 °F,78 °F,87 %,3 mph,0 mph,0.00 in,0.0 in,Partly Cloudy,0
+271,February,2014,Philippines,Ilocos,75 °F,75 °F,95 %,0 mph,0 mph,27.32 in,0.0 in,Mostly Cloudy,0
+272,April,2014,Philippines,Nueva Vizcaya,68 °F,67 °F,96 %,3 mph,0 mph,29.02 in,0.0 in,Cloudy,0
+273,January,2014,Philippines,Zambales,,,,,,,,,0
+274,February,2014,Philippines,Caraga,79 °F,77 °F,94 %,5 mph,0 mph,29.35 in,0.0 in,Haze,0
+275,March,2014,Philippines,Misamis Oriental,81 °F,78 °F,94 %,0 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,0
+276,January,2014,Philippines,Negros Oriental,84 °F,59 °F,73 %,0 mph,0 mph,29.44 in,0.0 in,Haze,0
+277,September,2014,Philippines,Southern Leyte,,,,,,,,,0
+278,July,2014,Philippines,Surigao del Norte,17 °F,13 °F,69 %,15 mph,0 mph,29.31 in,0.0 in,Cloudy,0
+279,January,2014,Philippines,Biliran,,,,,,,,,0
+280,January,2014,Philippines,Bohol,88 °F,79 °F,95 %,3 mph,0 mph,29.51 in,0.0 in,Partly Cloudy,0
+281,October,2014,Philippines,Capiz,,,,,,,,,0
+282,June,2014,Philippines,Guimaras,,,,,,,,,0
+283,April,2014,Philippines,National Capital Region,81 °F,78 °F,83 %,0 mph,0 mph,0.00 in,0.0 in,Cloudy,0
+284,February,2014,Philippines,Rizal,,,,,,,,,0
+285,March,2014,Philippines,Romblon,76 °F,74 °F,95 %,0 mph,0 mph,27.60 in,0.0 in,Mostly Cloudy,0
+286,January,2014,Philippines,Sorsogon,81 °F,78 °F,89 %,2 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,0
+287,February,2014,Philippines,Southern Leyte,71 °F,39 °F,31 %,0 mph,0 mph,23.36 in,0.0 in,Fair,0
+288,February,2014,Philippines,Surigao del nOrte,,,,,,,,,0
+289,February,2014,Philippines,Western Visayas,,,,,,,,,0
+290,January,2014,Philippines,Bohol,79 °F,79 °F,100 %,0 mph,0 mph,29.25 in,0.0 in,Fog,0
+291,March,2014,Philippines,Bukidnon,78 °F,76 °F,88 %,3 mph,0 mph,0.00 in,0.0 in,Fair,0
+292,April,2014,Philippines,Camiguion,,,,,,,,,0
+293,April,2014,Philippines,Western Visayas,,,,,,,,,0
+294,February,2014,Philippines,Caraga,83 °F,66 °F,81 %,6 mph,0 mph,29.12 in,0.0 in,Mostly Cloudy,0
+295,February,2014,Philippines,Compostela Valley,38 °F,36 °F,86 %,9 mph,0 mph,29.18 in,0.0 in,Fair,0
+296,January,2014,Philippines,Davao del Norte,76 °F,76 °F,100 %,15 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,0
+297,February,2014,Philippines,Western Visayas,81 °F,75 °F,84 %,2 mph,0 mph,29.52 in,0.0 in,Partly Cloudy,0
+298,February,2014,Philippines,Western Visayas,,,,,,,,,0
+299,March,2014,Philippines,Mimaropa,,,,,,,,,0
+300,November,2014,Philippines,Southern Leyte,82 °F,66 °F,49 %,12 mph,0 mph,29.49 in,0.0 in,Partly Cloudy,0
+301,December,2014,Philippines,Zamboanga Peninsula,,,,,,,,,0
+302,May,2015,Philippines,Catanduanes,78 °F,80 °F,98 %,7 mph,0 mph,0.00 in,0.0 in,Cloudy,0
+303,December,2015,Philippines,Eastern Samar,80 °F,75 °F,87 %,7 mph,0 mph,0.00 in,0.0 in,Cloudy,0
+304,October,2015,Philippines,Albayn Camarines Norte,81 °F,75 °F,84 %,10 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,0
+305,August,2014,Thailand,Chiang Rai,85 °F,69 °F,93 %,6 mph,0 mph,29.12 in,0.0 in,Partly Cloudy,0
+306,September,2014,Thailand,Lampang,,,,,,,,,0
+307,August,2014,Thailand,Lamphun,,,,,,,,,0
+308,September,2014,Thailand,Phrae and Nan,38 °F,22 °F,37 %,0 mph,0 mph,23.54 in,0.0 in,Cloudy,0
+309,November,2014,Thailand,Phayao,80 °F,76 °F,95 %,6 mph,0 mph,29.81 in,0.0 in,Cloudy,0
+310,June,2014,Thailand,Phrae and Nan,78 °F,77 °F,96 %,0 mph,0 mph,29.72 in,0.0 in,Mostly Cloudy,0
+311,July,2014,Turkey,Tekirdag,85 °F,75 °F,95 %,0 mph,0 mph,29.81 in,0.0 in,Partly Cloudy,0
+312,November,2014,Turkey,Yalova,80 °F,76 °F,95 %,6 mph,0 mph,29.81 in,0.0 in,Cloudy,0
+313,July,2014,Turkey,Yenice,80 °F,76 °F,95 %,6 mph,0 mph,29.81 in,0.0 in,Cloudy,0
+314,July,2014,Philippines,Autonomous Region in Muslim Mindanao,80 °F,76 °F,95 %,6 mph,0 mph,29.81 in,0.0 in,Cloudy,0
+315,November,2014,China,Xinjiang province,82 °F,76 °F,88 %,3 mph,0 mph,29.80 in,0.0 in,Cloudy,0
+316,September,2014,China,Xinjiang,78 °F,76 °F,95 %,0 mph,0 mph,29.78 in,0.0 in,Fair,0
+317,November,2014,China,Fujian,,,,,,,,,0
+318,November,2014,China,Guangdong,83 °F,78 °F,83 %,0 mph,0 mph,29.80 in,0.0 in,Fair,0
+319,July,2014,China,Gunagxi,84 °F,76 °F,98 %,0 mph,0 mph,29.76 in,0.0 in,Partly Cloudy,0
+320,September,2014,China,Yunnan province,84 °F,76 °F,98 %,0 mph,0 mph,29.76 in,0.0 in,Partly Cloudy,0
+321,November,2014,China,Sichuan,78 °F,76 °F,96 %,0 mph,0 mph,29.75 in,0.0 in,Partly Cloudy,0
+322,June,2014,China,Guangxi,78 °F,77 °F,96 %,0 mph,0 mph,29.72 in,0.0 in,Mostly Cloudy,0
+323,November,2014,China,Xinjiang,78 °F,76 °F,95 %,0 mph,0 mph,29.70 in,0.0 in,Partly Cloudy,0
+324,November,2014,China,Yunnan province,77 °F,76 °F,95 %,0 mph,0 mph,29.80 in,0.0 in,Mostly Cloudy,0
+325,November,2014,China,Yunnan,76 °F,78 °F,91 %,3 mph,0 mph,29.71 in,0.0 in,Fair,0
+326,June,2014,China,Guangdong,85 °F,76 °F,98 %,0 mph,0 mph,29.74 in,0.0 in,Fair,0
+327,June,2014,China,Guangxi,,,,,,,,,0
+328,November,2014,China,Heilongjiang,78 °F,77 °F,96 %,0 mph,0 mph,29.71 in,0.0 in,Fair,0
+329,June,2014,China,Fujian,76 °F,74 °F,83 %,0 mph,0 mph,29.73 in,0.0 in,Fair,0
+330,November,2014,China,Shandong,89 °F,75 °F,88 %,0 mph,0 mph,29.70 in,0.0 in,Partly Cloudy,0
+331,August,2014,China,Longtoushan,75 °F,73 °F,90 %,0 mph,0 mph,29.78 in,0.0 in,Cloudy,0
+332,November,2014,China,Sichuan,91 °F,71 °F,83 %,0 mph,0 mph,29.72 in,0.0 in,Fair,0
+333,June,2014,China,Sichuan province,78 °F,74 °F,90 %,0 mph,0 mph,29.79 in,0.0 in,Mostly Cloudy,0
+334,April,2014,China,Weiyuan,76 °F,75 °F,86 %,0 mph,0 mph,29.80 in,0.0 in,Fair,0
+335,June,2015,China,Shawan,49 °F,37 °F,64 %,25 mph,0 mph,30.06 in,0.0 in,Fair / Windy,0
+336,June,2015,China,Shigatse,83 °F,74 °F,79 %,5 mph,0 mph,29.79 in,0.0 in,Mostly Cloudy,0
+337,June,2015,China,Xinjiang region,109 °F,43 °F,11 %,3 mph,0 mph,28.25 in,0.0 in,Fair,0
+338,October,2015,China,Guangdong,,,,,,,,,0
+339,August,2015,China,Zheijiang,,,,,,,,,0
+340,July,2014,India,Andhra Pradesh,,,,,,,,,0
+341,October,2014,India,West Bengal.,,,,,,,,,0
+342,September,2014,India,South Odisha,,,,,,,,,0
+343,September,2015,India,Uttar Pradesh,66 °F,57 °F,88 %,0 mph,0 mph,29.97 in,0.0 in,Haze,0
+344,September,2015,India,West BEngal,,,,,,,,,0
+345,July,2014,Japan,Honshu Island,,,,,,,,,0
+346,July,2014,Japan,Tokyo,,,,,,,,,0
+347,April,2014,Japan,Honshu Island,,,,,,,,,0
+348,February,2014,Japan,Sugadaira/NaganoTohoku,,,,,,,,,0
+349,August,2014,Japan,Tokyo,84 °F,77 °F,79 %,7 mph,0 mph,29.84 in,0.0 in,Mostly Cloudy,0
+350,July,2014,Japan,Shikoku,,,,,,,,,0
+351,August,2014,Japan,Fukushima,86 °F,77 °F,74 %,6 mph,0 mph,29.90 in,0.0 in,Mostly Cloudy,0
+352,August,2014,Japan,Kochi,59 °F,52 °F,79 %,0 mph,0 mph,0.00 in,0.0 in,Fair,0
+353,July,2014,Japan,Okinawa,77 °F,79 °F,94 %,3 mph,0 mph,29.95 in,0.0 in,Mostly Cloudy,0
+354,August,2014,Japan,Kochi prefecture,,,,,,,,,0
+355,July,2014,Japan,Shihoku Island,63 °F,55 °F,60 %,0 mph,0 mph,29.69 in,0.0 in,Fair,0
+356,October,2015,Japan,Okinawa,86 °F,77 °F,74 %,6 mph,0 mph,29.90 in,0.0 in,Mostly Cloudy,0
+357,February,2014,Philippines,Dinagat Islands,,,,,,,,,0
+358,February,2014,Philippines,Autonomous Region in Muslim Mindanao,,,,,,,,,0
+359,November,2014,Philippines,Surigao del Sur,77 °F,75 °F,94 %,2 mph,0 mph,29.90 in,0.0 in,Mostly Cloudy,0
+360,April,2014,Philippines,Cebu,,,,,,,,,0
+361,November,2014,Philippines,Dinagat Island,,,,,,,,,0
+362,April,2014,Philippines,Leyte,,,,,,,,,0
+363,April,2014,Philippines,VIII,79 °F,75 °F,94 %,8 mph,0 mph,29.75 in,0.0 in,Light Rain,0
+364,January,2014,Philippines,V,79 °F,75 °F,94 %,8 mph,0 mph,29.75 in,0.0 in,Light Rain,0
+365,January,2014,Philippines,VIII,,,,,,,,,0
+366,January,2014,Philippines,VIII,79 °F,75 °F,94 %,8 mph,0 mph,29.75 in,0.0 in,Light Rain,0
+367,February,2014,Philippines,Cagayan,48 °F,43 °F,93 %,14 mph,0 mph,30.04 in,0.0 in,Partly Cloudy,0
+368,February,2014,Philippines,Southwestern Tagalog,3 °F,-8 °F,53 %,2 mph,0 mph,25.26 in,0.0 in,Fair,0
+369,March,2014,Philippines,Cebu,79 °F,75 °F,94 %,8 mph,0 mph,29.75 in,0.0 in,Light Rain,0
+370,July,2014,Philippines,Dinagat Island,79 °F,77 °F,94 %,1 mph,0 mph,29.74 in,0.0 in,Light Rain,0
+371,February,2014,Philippines,Misamis Occidental,79 °F,75 °F,94 %,8 mph,0 mph,29.75 in,0.0 in,Light Rain,0
+372,February,2014,Philippines,Palawan,79 °F,75 °F,94 %,8 mph,0 mph,29.75 in,0.0 in,Light Rain,0
+373,October,2014,Philippines,Albay,79 °F,73 °F,89 %,8 mph,0 mph,29.68 in,0.0 in,Mostly Cloudy,0
+374,February,2014,Philippines,Leyte,79 °F,70 °F,74 %,10 mph,0 mph,29.90 in,0.0 in,Cloudy,0
+375,July,2014,Philippines,Masbate,79 °F,70 °F,74 %,10 mph,0 mph,29.90 in,0.0 in,Cloudy,0
+376,October,2014,Philippines,Northern Samar,77 °F,75 °F,94 %,1 mph,0 mph,29.72 in,0.0 in,Mostly Cloudy,0
+377,March,2014,Philippines,Occidental Mindoro,56 °F,50 °F,84 %,0 mph,0 mph,0.00 in,0.0 in,Fair,0
+378,February,2014,Philippines,Palawan,79 °F,77 °F,94 %,3 mph,0 mph,29.69 in,0.0 in,Mostly Cloudy,0
+379,February,2014,Philippines,Western Samar,77 °F,75 °F,89 %,5 mph,0 mph,29.77 in,0.0 in,Mostly Cloudy,0
+380,October,2014,Philippines,Dinagat Islands,52 °F,48 °F,94 %,14 mph,0 mph,29.71 in,0.0 in,Fair,0
+381,March,2014,Philippines,Leyte,77 °F,75 °F,94 %,3 mph,0 mph,29.73 in,0.0 in,Mostly Cloudy,0
+382,December,2014,Philippines,Western Samar,,,,,,,,,0
+383,October,2014,Philippines,Surigao del Sur,,,,,,,,,0
+384,February,2014,Philippines,Zamboanga Peninsula,,,,,,,,,0
+385,March,2015,Philippines,Palawan,,,,,,,,,0
+386,July,2016,China,Fujian Sheng province,,,,,,,,,0
+387,July,2016,China, Hainan Sheng province,77 °F,75 °F,94 %,3 mph,0 mph,29.84 in,0.0 in,Mostly Cloudy,0
+388,September,2016,China,Guangdong Sheng province,77 °F,72 °F,89 %,3 mph,0 mph,29.82 in,0.0 in,Mostly Cloudy,0
+389,August,2016,China, Hebei,,,,,,,,,0
+390,June,2016,China, Shanxi,,,,,,,,,0
+391,December,2016,China,Fujian,,,,,,,,,0
+392,July,2016,China, Nei Mongol Zizhiqu,,,,,,,,,0
+393,July,2016,China, Heilongjiang,,,,,,,,,0
+394,July,2016,China, Liaoning Sheng provinces,,,,,,,,,0
+395,July,2016,China, Henan,82 °F,79 °F,89 %,9 mph,0 mph,29.44 in,0.0 in,Haze,0
+396,July,2016,China, Guizhou,,,,,,,,,0
+397,June,2016,China, Jiangxi,,,,,,,,,0
+398,June,2016,China, Yunnan,,,,,,,,,0
+399,July,2016,China, Hubei,,,,,,,,,0
+400,June,2016,China, Sucun village ,,,,,,,,,0
+401,June,2016,China, Baofeng village ,84 °F,77 °F,84 %,6 mph,0 mph,29.52 in,0.0 in,Haze,0
+402,June,2016,China, Qinghai Sheng provinces,82 °F,79 °F,89 %,9 mph,0 mph,29.44 in,0.0 in,Haze,0
+403,June,2016,China, Hebei Sheng,90 °F,77 °F,89 %,7 mph,0 mph,29.38 in,0.0 in,Haze,0
+404,June,2016,China, Fujian Sheng,,,,,,,,,0
+405,June,2016,China,Shandong Sheng,,,,,,,,,0
+406,June,2016,China, Guangxi Zhuangzu Zizhiqu,,,,,,,,,0
+407,July,2016,China, Nei Mongol Zizhiqu,,,,,,,,,0
+408,September,2016,China, Yunnan Sheng,84 °F,77 °F,84 %,5 mph,0 mph,29.60 in,0.0 in,Partly Cloudy,0
+409,September,2017,China,Nyingchi ,82 °F,55 °F,42 %,5 mph,0 mph,28.77 in,0.0 in,Fair,0
+410,September,2017,China, Henan provinces,57 °F,46 °F,82 %,15 mph,0 mph,29.57 in,0.0 in,Mostly Cloudy,0
+411,September,2017,China,Jiangsu,91 °F,74 °F,94 %,0 mph,0 mph,27.38 in,0.0 in,Mostly Cloudy,0
+412,July,2017,China,  Sichuan provinces,,,,,,,,,0
+413,September,2017,China, Hubei,72 °F,72 °F,100 %,2 mph,0 mph,25.39 in,0.0 in,Mostly Cloudy,0
+414,July,2017,China,Chongqing,,,,,,,,,0
+415,July,2017,China, Shaanxi,,,,,,,,,0
+416,July,2017,China,Xinjiang region,,,,,,,,,0
+417,September,2017,China, Guangxi,81 °F,77 °F,89 %,0 mph,0 mph,29.58 in,0.0 in,Haze,0
+418,January,2017,China,Hubei,,,,,,,,,0
+419,September,2017,China, Yunnan,81 °F,77 °F,89 %,0 mph,0 mph,29.58 in,0.0 in,Haze,0
+420,July,2017,China, Guizhou,,,,,,,,,0
+421,July,2017,China, Hunan,,,,,,,,,0
+422,October,2017,China, Chongqing,78 °F,76 °F,96 %,3 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,0
+423,July,2017,China, Sichuan,,,,,,,,,0
+424,September,2017,China, Liaoning,,,,,,,,,0
+425,January,2017,China,Hebei,,,,,,,,,0
+426,July,2017,China, Shanxi,,,,,,,,,0
+427,July,2017,China, Shaanxi,81 °F,77 °F,89 %,12 mph,0 mph,29.44 in,0.0 in,Rain,0
+428,September,2017,China, Ningxia Hui,,,,,,,,,0
+429,July,2017,China, Sichuan,65 °F,65 °F,93 %,0 mph,0 mph,24.19 in,0.0 in,Fog,0
+430,November,2017,China, Yunnan,,,,,,,,,0
+431,September,2017,China, Guangxi Zhuang,,,,,,,,,0
+432,September,2017,China,Hainan Island,,,,,,,,,0
+433,July,2017,China, and Fujian Provinces ,72 °F,71 °F,88 %,0 mph,0 mph,0.00 in,0.0 in,Partly Cloudy,0
+434,May,2017,China, Guangxi Zhuang,,,,,,,,,0
+435,October,2017,China, Guizhou and Yunnan,,,,,,,,,0
+436,November,2017,China, Guizhou and Yunnan,77 °F,76 °F,96 %,0 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,0
+437,May,2017,China, Guangxi Zhuang,,,,,,,,,0
+438,July,2017,China,Fujian province,,,,,,,,,0
+439,June,2018,China,Anhui,,,,,,,,,0
+440,July,2018,China, Hunan,81 °F,77 °F,94 %,3 mph,0 mph,29.57 in,0.0 in,Rain,0
+441,June,2018,China, Jiangxi,84 °F,45 °F,15 %,0 mph,0 mph,0.00 in,0.0 in,Fair,0
+442,July,2018,China,Jiangxi,84 °F,75 °F,74 %,6 mph,0 mph,29.51 in,0.0 in,Mostly Cloudy,0
+443,July,2018,China, Anhui,,,,,,,,,0
+444,July,2018,China,Guangdong,46 °F,42 °F,79 %,0 mph,0 mph,0.00 in,0.0 in,Fair,0
+445,July,2018,China, and Zhejiang provinces,64 °F,48 °F,88 %,18 mph,0 mph,29.52 in,0.0 in,Fair,0
+446,July,2018,China, Jiangxi,,,,,,,,,0
+447,July,2018,China, Fujian,,,,,,,,,0
+448,August,2018,China, Hainan Island,81 °F,68 °F,59 %,7 mph,0 mph,29.79 in,0.0 in,Mostly Cloudy,0
+449,December,2018,China,Shenzhen,,,,,,,,,0
+450,September,2016,India, Andhra Pradesh,78 °F,76 °F,93 %,4 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,0
+451,July,2016,India, Madhya Pradesh provinces,69 °F,68 °F,96 %,0 mph,0 mph,27.85 in,0.0 in,Cloudy,0
+452,August,2016,India, Uttar Pradesh,75 °F,64 °F,73 %,0 mph,0 mph,26.37 in,0.0 in,Fair,0
+453,September,2016,India, Jharkhand,,,,,,,,,0
+454,May,2016,India,Bihar,84 °F,79 °F,91 %,0 mph,0 mph,29.79 in,0.0 in,Fair,0
+455,August,2017,India, Lakshadweep Islands,54 °F,57 °F,94 %,3 mph,0 mph,30.14 in,0.0 in,Fair,0
+456,August,2017,India, Mizoram,,,,,,,,,0
+457,September,2017,India,Rohta,,,,,,,,,0
+458,August,2018,India, Godalpur,102 °F,42 °F,33 %,2 mph,0 mph,0.00 in,0.0 in,Fair,0
+459,August,2018,India, Rajasthan,,,,,,,,,0
+460,September,2018,India,Uttar Pradesh,75 °F,72 °F,52 %,5 mph,0 mph,28.54 in,0.0 in,Mostly Cloudy,0
+461,October,2018,India,Kolkata,,,,,,,,,0
+462,May,2018,India,Rajasthan,,,,,,,,,0
+463,August,2018,India, Bihar,52 °F,50 °F,94 %,5 mph,0 mph,28.45 in,0.0 in,Mostly Cloudy,0
+464,September,2018,India, Andhra Pradesh,,,,,,,,,0
+465,May,2018,India, Bengale occidental,,,,,,,,,0
+466,September,2018,India, Bihar,,,,,,,,,0
+467,October,2018,India, Jharkhand,95 °F,73 °F,74 %,0 mph,0 mph,29.78 in,0.0 in,Fair,0
+468,July,2018,India,Uttar Pradesh,78 °F,74 °F,90 %,3 mph,0 mph,29.84 in,0.0 in,N/A,0
+469,August,2018,India, Tripura,78 °F,74 °F,90 %,3 mph,0 mph,29.84 in,0.0 in,N/A,0
+470,September,2018,India, West Bengal,,,,,,,,,0
+471,June,2018,India,Uttar Pradesh,,,,,,,,,0
+472,July,2018,India, Kerala,,,,,,,,,0
+473,May,2018,India, Maharashtra,,,,,,,,,0
+474,July,2018,India, Rajasthan,,,,,,,,,0
+475,July,2018,India,Uttar Pradesh,,,,,,,,,0
+476,May,2018,India, Mizoram,73 °F,40 °F,31 %,4 mph,0 mph,0.00 in,0.0 in,Fair,0
+477,June,2018,India, West Bengal,72 °F,68 °F,88 %,3 mph,0 mph,27.86 in,0.0 in,Mostly Cloudy,0
+478,October,2018,India, Tripura,79 °F,77 °F,92 %,0 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,0
+479,August,2018,India, Manipur,92 °F,78 °F,91 %,3 mph,0 mph,27.27 in,0.0 in,Partly Cloudy,0
+480,September,2018,India, Assam,89 °F,64 °F,76 %,3 mph,0 mph,29.19 in,0.0 in,Partly Cloudy,0
+481,July,2018,India,Uttar Pradesh,80 °F,79 °F,85 %,0 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,0
+482,September,2018,India, Mizoram,,,,,,,,,0
+483,September,2016,Indonesia, Maluku Utara provinces,78 °F,78 °F,100 %,0 mph,0 mph,0.00 in,0.0 in,Light Rain Shower,0
+484,November,2017,Indonesia, Sidomulyo Village in Ngadirojo Sub-district,80 °F,79 °F,85 %,0 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,0
+485,November,2017,Indonesia,East JavaÕs Pacitan Regency ,89 °F,64 °F,76 %,3 mph,0 mph,29.19 in,0.0 in,Partly Cloudy,0
+486,April,2017,Indonesia, Sidomulyo Village in Ngadirojo Sub-district,78 °F,76 °F,95 %,7 mph,0 mph,29.47 in,0.0 in,Fair,0
+487,March,2017,Indonesia,Jakarta,52 °F,41 °F,55 %,10 mph,0 mph,29.47 in,0.0 in,Cloudy,0
+488,May,2017,Indonesia,Pekalongan,86 °F,81 °F,90 %,0 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,0
+489,November,2017,Indonesia, and Yogyakarta,54 °F,49 °F,84 %,0 mph,0 mph,0.00 in,0.0 in,Fair,0
+490,May,2018,Indonesia,Lombok,,,,,,,,,0
+491,April,2016,Iran,Golestan,85 °F,76 °F,75 %,0 mph,0 mph,29.78 in,0.0 in,Mostly Cloudy,0
+492,February,2017,Iran, Alborz,80 °F,74 °F,87 %,10 mph,0 mph,29.82 in,0.0 in,Mostly Cloudy,0
+493,May,2017,Iran, Bidak,85 °F,75 °F,96 %,0 mph,0 mph,29.70 in,0.0 in,Mostly Cloudy,0
+494,August,2017,Iraq, Khanaqin and Halabja,85 °F,75 °F,96 %,0 mph,0 mph,29.70 in,0.0 in,Mostly Cloudy,0
+495,January,2017,Iraq, Erbil,85 °F,75 °F,96 %,0 mph,0 mph,29.70 in,0.0 in,Mostly Cloudy,0
+496,July,2016,Japan,Kumamoto province ,84 °F,76 °F,79 %,5 mph,0 mph,29.77 in,0.0 in,Fair,0
+497,August,2016,Japan, Oita,54 °F,14 °F,54 %,6 mph,0 mph,29.75 in,0.0 in,Fair,0
+498,September,2016,Japan, Tookyoo,74 °F,76 °F,100 %,0 mph,0 mph,29.76 in,0.0 in,Mostly Cloudy,0
+499,March,2016,Japan, Tiba provinces,74 °F,76 °F,100 %,0 mph,0 mph,29.76 in,0.0 in,Mostly Cloudy,0
+500,August,2016,Japan, Oosaka province,74 °F,76 °F,100 %,0 mph,0 mph,29.76 in,0.0 in,Mostly Cloudy,0
+501,May,2016,Japan, Miyazaki,,,,,,,,,0
+502,December,2016,Japan,Iwate,76 °F,74 °F,83 %,0 mph,0 mph,29.73 in,0.0 in,Fair,0
+503,October,2017,Japan, Wakayama,76 °F,76 °F,96 %,0 mph,0 mph,29.73 in,0.0 in,Partly Cloudy,0
+504,September,2017,Japan, Mie,,,,,,,,,0
+505,September,2017,Japan, Nagano,79 °F,79 °F,100 %,0 mph,0 mph,0.00 in,0.0 in,Cloudy,0
+506,January,2017,Japan, Osaka,81 °F,79 °F,94 %,12 mph,0 mph,29.54 in,0.0 in,Rain,0
+507,September,2017,Japan, Ibaraki,81 °F,79 °F,94 %,12 mph,0 mph,29.54 in,0.0 in,Rain,0
+508,September,2017,Japan, Toyama,,,,,,,,,0
+509,September,2017,Japan, Hyogo Prefecture,65 °F,41 °F,78 %,0 mph,0 mph,0.00 in,0.0 in,Fair,0
+510,August,2017,Japan, Minami-ko towns,78 °F,76 °F,91 %,0 mph,0 mph,29.71 in,0.0 in,Mostly Cloudy,0
+511,September,2017,Japan, Mie region,,,,,,,,,0
+512,September,2017,Japan,Wakayama prefecture,77 °F,74 °F,92 %,0 mph,0 mph,29.84 in,0.0 in,Mostly Cloudy,0
+513,September,2017,Japan, Miyazaki,78 °F,74 °F,83 %,0 mph,0 mph,29.74 in,0.0 in,Mostly Cloudy,0
+514,September,2017,Japan, Fukuoka Prefectures,,,,,,,,,0
+515,September,2017,Japan, Okayama,,,,,,,,,0
+516,March,2017,Japan, Ehime,,,,,,,,,0
+517,July,2017,Japan, Kyoto,81 °F,77 °F,88 %,4 mph,0 mph,29.72 in,0.0 in,Partly Cloudy,0
+518,July,2017,Japan, Miyazaki,,,,,,,,,0
+519,August,2017,Japan,Oita ,89 °F,64 °F,76 %,3 mph,0 mph,29.19 in,0.0 in,Partly Cloudy,0
+520,August,2017,Japan, Hyogo,79 °F,77 °F,92 %,0 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,0
+521,October,2018,Japan,Hyogo,92 °F,78 °F,91 %,3 mph,0 mph,27.27 in,0.0 in,Partly Cloudy,0
+522,September,2018,Japan, Kyoto,80 °F,79 °F,97 %,5 mph,0 mph,29.28 in,0.0 in,Partly Cloudy,0
+523,August,2018,Japan, Osaka Prefectures,68 °F,58 °F,84 %,6 mph,0 mph,29.15 in,0.0 in,Partly Cloudy,0
+524,April,2018,Japan,Tokyo,79 °F,78 °F,96 %,5 mph,0 mph,0.00 in,0.0 in,Light Rain,0
+525,April,2018,Japan, Wakayama,,,,,,,,,0
+526,April,2018,Japan,Osaka,77 °F,82 °F,85 %,0 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,0
+527,April,2018,Japan, Hyogo,,,,,,,,,0
+528,April,2018,Japan, Wakayama,,,,,,,,,0
+529,March,2018,Lebanon,Near Masnaa,,,,,,,,,0
+530,November,2016,Bangladesh, Rajshahi district ,78 °F,78 °F,100 %,5 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,0
+531,February,2016,Bangladesh, Nilphamari ,89 °F,64 °F,76 %,3 mph,0 mph,29.19 in,0.0 in,Partly Cloudy,0
+532,June,2016,Myanmar, Magway,78 °F,78 °F,100 %,5 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,0
+533,July,2016,Myanmar,Mandalay district,78 °F,76 °F,95 %,7 mph,0 mph,29.47 in,0.0 in,Fair,0
+534,August,2017,Myanmar,Chin,89 °F,64 °F,76 %,3 mph,0 mph,29.19 in,0.0 in,Partly Cloudy,0
+535,August,2017,Bangladesh, Bhola district. Khagrachhari,79 °F,77 °F,92 %,0 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,0
+536,June,2018,Oman,  Al-Wusta Governorates,82 °F,80 °F,92 %,0 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,0
+537,April,2016,Philippines, Albay,79 °F,77 °F,92 %,0 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,0
+538,July,2016,Philippines, Bulacan,89 °F,64 °F,76 %,3 mph,0 mph,29.19 in,0.0 in,Partly Cloudy,0
+539,July,2016,Philippines, Batangas districts ,,,,,,,,,0
+540,July,2016,Philippines, Isabela districts ,72 °F,72 °F,93 %,0 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,0
+541,July,2016,Philippines,Ilocos region,46 °F,31 °F,93 %,10 mph,0 mph,29.25 in,0.0 in,Cloudy,0
+542,September,2016,Philippines, Sorsogon districts ,,,,,,,,,0
+543,July,2016,Philippines,Cagayan valley,69 °F,64 °F,82 %,0 mph,0 mph,0.00 in,0.0 in,Fair,0
+544,August,2016,Philippines, Rizal,75 °F,73 °F,94 %,5 mph,0 mph,29.60 in,0.0 in,Mostly Cloudy,0
+545,October,2016,Philippines, Camarines Sur,76 °F,75 °F,98 %,2 mph,0 mph,29.72 in,0.0 in,Mostly Cloudy,0
+546,August,2016,Philippines,Pangasinan district ,74 °F,76 °F,98 %,0 mph,0 mph,29.78 in,0.0 in,Cloudy,0
+547,October,2016,Philippines, Zambales districts ,73 °F,72 °F,88 %,0 mph,0 mph,29.86 in,0.0 in,Fair,0
+548,July,2016,Philippines, Nueva Ecija,82 °F,75 °F,94 %,0 mph,0 mph,29.86 in,0.0 in,Fog,0
+549,June,2016,Philippines, Cavite,77 °F,68 °F,83 %,0 mph,0 mph,29.83 in,0.0 in,Partly Cloudy,0
+550,September,2016,Philippines, Catanduanes,,,,,,,,,0
+551,September,2016,Philippines, Rizal districts ,72 °F,68 °F,94 %,0 mph,0 mph,29.89 in,0.0 in,Fair,0
+552,July,2016,Philippines, Bulacan,76 °F,74 °F,93 %,3 mph,0 mph,29.93 in,0.0 in,Mostly Cloudy,0
+553,July,2016,Philippines, Nueva Vizcaya,,,,,,,,,0
+554,June,2016,Philippines, Sorgoson ,75 °F,64 °F,69 %,0 mph,0 mph,28.15 in,0.0 in,Fair,0
+555,September,2016,Philippines, Ifugao,78 °F,74 °F,84 %,5 mph,0 mph,29.95 in,0.0 in,Fair,0
+556,July,2016,Philippines, Camarines Norte,,,,,,,,,0
+557,July,2016,Philippines, Nueva Ecija,78 °F,57 °F,48 %,0 mph,0 mph,0.00 in,0.0 in,Fair,0
+558,July,2016,Philippines, La Union,77 °F,73 °F,89 %,3 mph,0 mph,29.78 in,0.0 in,Mostly Cloudy,0
+559,April,2016,Philippines, Batangas,79 °F,73 °F,75 %,0 mph,0 mph,0.00 in,0.0 in,Mostly Cloudy,0
+560,July,2016,Philippines, Benguet,73 °F,71 °F,100 %,0 mph,0 mph,27.83 in,0.0 in,Cloudy,0
+561,October,2016,Philippines, Zambales districts ,,,,,,,,,0
+562,August,2016,Philippines, Abra,,,,,,,,,0
+563,April,2016,Philippines, Quezon,,,,,,,,,0
+564,February,2016,Philippines, Aurora,,,,,,,,,0
+565,May,2016,Philippines, Quirino districts ,,,,,,,,,0
+566,May,2016,Philippines, Leyte ,90 °F,76 °F,68 %,2 mph,0 mph,0.00 in,0.0 in,Partly Cloudy,0
+567,July,2016,Philippines,Caraga,,,,,,,,,0
+568,July,2016,Philippines, Iloilo ,33 °F,29 °F,85 %,6 mph,0 mph,29.27 in,0.0 in,Cloudy,0
+569,July,2016,Philippines,Romblon,,,,,,,,,0
+570,December,2016,Philippines, Aklan,,,,,,,,,0
+571,November,2016,Philippines, Camarines Norte,,,,,,,,,0
+572,November,2016,Philippines,  Mariduque,91 °F,72 °F,94 %,0 mph,0 mph,28.63 in,0.0 in,Mostly Cloudy,0
+573,June,2016,Philippines, Quezon,,,,,,,,,0
+574,July,2016,Philippines, Northern Samar ,,,,,,,,,0
+575,July,2016,Philippines, Iloilo district ,56 °F,31 °F,60 %,4 mph,0 mph,25.35 in,0.0 in,Mostly Cloudy,0
+576,September,2016,Philippines,Ilocos region,59 °F,49 °F,47 %,13 mph,0 mph,22.90 in,0.0 in,Partly Cloudy,0
+577,November,2016,Philippines, Cagayan,61 °F,29 °F,74 %,4 mph,0 mph,25.09 in,0.0 in,Fair,0
+578,June,2016,Philippines,Ilocos Norte district ,51 °F,24 °F,35 %,7 mph,0 mph,25.53 in,0.0 in,Fair,0
+579,June,2016,Philippines, Batanes,51 °F,24 °F,35 %,7 mph,0 mph,25.53 in,0.0 in,Fair,0
+580,July,2017,Philippines,Negros oriental,24 °F,15 °F,23 %,0 mph,0 mph,23.14 in,0.0 in,Fair,0
+581,August,2017,Philippines, Siquijor,79 °F,58 °F,42 %,4 mph,0 mph,28.04 in,0.0 in,Fair,0
+582,July,2017,Philippines,Negros occidental,63 °F,59 °F,90 %,0 mph,0 mph,0.00 in,0.0 in,Fair,0
+583,December,2017,Philippines,Sultan Kudarat,,,,,,,,,0
+584,August,2017,Philippines, Romblon,,,,,,,,,0
+585,November,2017,Philippines, Sorsogon,53 °F,47 °F,80 %,12 mph,0 mph,28.74 in,0.0 in,Mostly Cloudy,0
+586,January,2017,Philippines,Albay,60 °F,59 °F,96 %,5 mph,0 mph,29.34 in,0.0 in,Fair,0
+587,July,2017,Philippines,Camarines Sur,73 °F,66 °F,42 %,0 mph,0 mph,29.21 in,0.0 in,Fair,0
+588,January,2017,Philippines,Marinduque,,,,,,,,,0
+589,December,2017,Philippines,Biliran,,,,,,,,,0
+590,July,2017,Philippines, Masbate,66 °F,52 °F,60 %,0 mph,0 mph,28.15 in,0.0 in,Fair,0
+591,February,2017,Philippines, Caraga ,62 °F,47 °F,58 %,12 mph,0 mph,24.85 in,0.0 in,Fair,0
+592,December,2017,Philippines, Eastern Samar,55 °F,52 °F,88 %,14 mph,0 mph,29.93 in,0.0 in,Fair,0
+593,January,2017,Philippines, Iloilo,,,,,,,,,0
+594,October,2017,Philippines,Aklan,,,,,,,,,0
+595,April,2017,Philippines,Camarines Norte,68 °F,43 °F,40 %,6 mph,0 mph,29.68 in,0.0 in,Fair,0
+596,January,2017,Philippines,Dinagat Island,,,,,,,,,0
+597,December,2017,Philippines,Mindanao,,,,,,,,,0
+598,January,2017,Philippines, Zamboanga Sibugay,,,,,,,,,0
+599,December,2017,Philippines,Valencia,,,,,,,,,0
+600,February,2017,Philippines,Caraga,,,,,,,,,0
+601,December,2017,Philippines,Surigao Del Norte district ,,,,,,,,,0
+602,November,2017,Philippines, Danao City,,,,,,,,,0
+603,October,2017,Philippines,Carmen,,,,,,,,,0
+604,September,2017,Philippines,Cebu Isl. ,,,,,,,,,0
+605,October,2017,Philippines,. Batangas and Laguna provinces,,,,,,,,,0
+606,January,2017,Philippines, MacabebeBrgy. Sto. Rosario - City of San Fernando -Pampanga,,,,,,,,,0
+607,September,2017,Philippines, Ilocos Sur,75 °F,51 °F,39 %,14 mph,0 mph,24.73 in,0.0 in,Fair,0
+608,September,2017,Philippines, Quezon,73 °F,51 °F,45 %,12 mph,0 mph,24.85 in,0.0 in,Fair,0
+609,October,2017,Philippines, Ifugao,,,,,,,,,0
+610,September,2017,Philippines, Abra,82 °F,79 °F,89 %,0 mph,0 mph,29.67 in,0.0 in,Haze,0
+611,August,2017,Philippines,Cavite,,,,,,,,,0
+612,October,2017,Philippines,Ilocos,,,,,,,,,0
+613,September,2017,Philippines, the National Capital region ,,,,,,,,,0
+614,August,2017,Philippines,Laguna,,,,,,,,,0
+615,September,2017,Philippines, Cavite,,,,,,,,,0
+616,October,2018,Philippines, Misamis Oriental ,70 °F,68 °F,94 %,2 mph,0 mph,28.33 in,0.0 in,Fair,0
+617,October,2018,Philippines, Camiguin,73 °F,73 °F,93 %,4 mph,0 mph,29.78 in,0.0 in,N/A,0
+618,May,2018,Philippines,Caraga,,,,,,,,,0
+619,May,2018,Philippines, Dinagat Isl.,61 °F,52 °F,75 %,8 mph,0 mph,29.07 in,0.0 in,Partly Cloudy,0
+620,July,2018,Philippines,Aklan,57 °F,54 °F,88 %,4 mph,0 mph,28.69 in,0.0 in,Light Rain,0
+621,October,2018,Philippines, Surigao del Norte ,75 °F,72 °F,74 %,8 mph,0 mph,29.74 in,0.0 in,Fair,0
+622,July,2018,Philippines, Cebu ,63 °F,59 °F,88 %,0 mph,0 mph,29.04 in,0.0 in,Fog,0
+623,October,2018,Philippines, Agusan del NOrte,,,,,,,,,0
+624,March,2018,Philippines, Northern Samar ,41 °F,43 °F,65 %,7 mph,0 mph,29.42 in,0.0 in,Fair,0
+625,April,2018,Philippines, Nueva Ecija,41 °F,43 °F,65 %,7 mph,0 mph,29.42 in,0.0 in,Fair,0
+626,March,2018,Philippines, la Union,55 °F,50 °F,82 %,0 mph,0 mph,29.12 in,0.0 in,Fog,0
+627,March,2018,Philippines, Isabela,57 °F,54 °F,88 %,4 mph,0 mph,28.69 in,0.0 in,Light Rain,0
+628,July,2018,Philippines,Region II - Cagayan Valley,63 °F,59 °F,87 %,7 mph,0 mph,29.88 in,0.0 in,N/A,0
+629,May,2018,Philippines, Abra,73 °F,73 °F,93 %,4 mph,0 mph,29.78 in,0.0 in,N/A,0
+630,August,2018,Philippines, Benguet,75 °F,72 °F,87 %,11 mph,0 mph,29.78 in,0.0 in,N/A,0
+631,May,2018,Philippines, Kalinga,73 °F,73 °F,93 %,4 mph,0 mph,29.78 in,0.0 in,N/A,0
+632,July,2018,Philippines, Ilocos Sur,91 °F,72 °F,94 %,0 mph,0 mph,29.01 in,0.0 in,Haze,0
+633,July,2018,Philippines, Apayao,,,,,,,,,0
+634,October,2018,Philippines, Mountain province ,73 °F,73 °F,93 %,4 mph,0 mph,29.78 in,0.0 in,N/A,0
+635,November,2018,Philippines, Pangasinan ,41 °F,43 °F,65 %,7 mph,0 mph,29.42 in,0.0 in,Fair,0
+636,July,2018,Philippines, Zambales ,,,,,,,,,0
+637,December,2018,Philippines, Esatern Samar,73 °F,73 °F,93 %,4 mph,0 mph,29.78 in,0.0 in,N/A,0
+638,February,2018,Philippines, Capiz,,,,,,,,,0
+639,November,2018,Philippines, Dinagat Isl.,48 °F,47 °F,97 %,0 mph,0 mph,26.75 in,0.0 in,N/A,0
+640,September,2018,Philippines, Negros occidental ,,,,,,,,,0
+641,September,2018,Philippines,Palawan ,,,,,,,,,0
+642,September,2018,Philippines, Agusan del Norte,91 °F,72 °F,94 %,0 mph,0 mph,29.01 in,0.0 in,Haze,0
+643,March,2018,Philippines, Siquijor ,,,,,,,,,0
+644,November,2018,Philippines, Surigao del Sur ,41 °F,43 °F,65 %,7 mph,0 mph,29.42 in,0.0 in,Fair,0
+645,November,2018,Philippines, Northern Palawan,93 °F,67 °F,87 %,0 mph,0 mph,29.29 in,0.0 in,Partly Cloudy,0
+646,September,2018,Philippines, National Capital Region,41 °F,43 °F,65 %,7 mph,0 mph,29.42 in,0.0 in,Fair,0
+647,July,2017,Sri Lanka,Galle,57 °F,54 °F,88 %,4 mph,0 mph,28.69 in,0.0 in,Light Rain,0
+648,December,2017,Thailand, Uttaradit,79 °F,78 °F,93 %,0 mph,0 mph,29.60 in,0.0 in,N/A,0
+649,December,2017,Thailand, Sakon Nakhon,66 °F,63 °F,84 %,0 mph,0 mph,29.27 in,0.0 in,Cloudy,0
+650,May,2017,Thailand, Phetchabun,73 °F,70 °F,88 %,4 mph,0 mph,28.24 in,0.0 in,Light Rain,0
+651,December,2017,Thailand, Phangnga,80 °F,75 °F,94 %,0 mph,0 mph,29.44 in,0.0 in,N/A,0
+652,December,2017,Thailand, Chaiyaphum,79 °F,75 °F,89 %,18 mph,0 mph,29.48 in,0.0 in,Mostly Cloudy,0
+653,January,2017,Thailand,Uthai Thani,73 °F,70 °F,88 %,0 mph,0 mph,29.08 in,0.0 in,Cloudy,0
+654,December,2017,Thailand, Kalasin,82 °F,76 °F,83 %,11 mph,0 mph,29.64 in,0.0 in,N/A,0
+655,January,2017,Thailand, Lampang,81 °F,77 °F,94 %,0 mph,0 mph,28.81 in,0.0 in,Haze,0
+656,August,2017,Turkey,Bodrum,,,,,,,,,0
+657,November,2016,China,Hainan Sheng,70 °F,66 °F,83 %,4 mph,0 mph,28.30 in,0.0 in,Fair,0
+658,February,2016,China, Guangxi Zhuangzu Zizhiqu provinces,82 °F,76 °F,83 %,11 mph,0 mph,29.64 in,0.0 in,N/A,0
+659,October,2016,China, Hainan Sheng,70 °F,66 °F,88 %,7 mph,0 mph,29.12 in,0.0 in,Cloudy,0
+660,October,2016,China, Beijing Shi,82 °F,76 °F,83 %,11 mph,0 mph,29.64 in,0.0 in,N/A,0
+661,January,2016,China, Zhejiang Sheng,,,,,,,,,0
+662,March,2014,India, Jammu and Kashmir,,,,,,,,,0
+663,March,2014,India, Uttarakhand,70 °F,66 °F,90 %,6 mph,0 mph,29.16 in,0.0 in,Cloudy,0
+664,February,2014,India, Delhi provinces,81 °F,66 °F,78 %,4 mph,0 mph,28.30 in,0.0 in,Fair,0
+665,December,2014,India,Himachal Pradesh,82 °F,76 °F,83 %,11 mph,0 mph,29.64 in,0.0 in,N/A,0
+666,February,2014,India, Uttarakhand,86 °F,75 °F,70 %,29 mph,0 mph,29.51 in,0.0 in,Mostly Cloudy / Windy,0
+667,December,2014,India, Uttar Pradesh provinces,70 °F,66 °F,88 %,7 mph,0 mph,29.12 in,0.0 in,Cloudy,0
+668,September,2015,India,Delhi,75 °F,72 °F,90 %,5 mph,0 mph,29.12 in,0.0 in,Cloudy,0
+669,December,2015,India, Orissa provinces,73 °F,64 °F,78 %,0 mph,0 mph,29.35 in,0.0 in,Mostly Cloudy,0
+670,August,2017,India,Andhra Pradesh,61 °F,50 °F,43 %,8 mph,0 mph,29.49 in,0.0 in,Partly Cloudy,0
+671,July,2017,India, Telangana,,,,,,,,,0
+672,January,2017,India, Maharashtra,68 °F,61 °F,70 %,8 mph,0 mph,29.15 in,0.0 in,Partly Cloudy,0
+673,October,2017,India,Orissa,,,,,,,,,0
+674,June,2014,Japan, Miyagi,112 °F,66 °F,41 %,3 mph,0 mph,0.00 in,0.0 in,Fair,0
+675,May,2014,Japan, Kagawa,46 °F,34 °F,73 %,22 mph,0 mph,28.96 in,0.0 in,Cloudy,0
+676,September,2014,Japan, Kumamoto,63 °F,60 °F,87 %,0 mph,0 mph,29.22 in,0.0 in,Fair,0
+677,May,2014,Japan, Tottori,71 °F,53 °F,68 %,0 mph,0 mph,29.20 in,0.0 in,Mostly Cloudy,0
+678,July,2014,Japan, Gunma,93 °F,73 °F,83 %,0 mph,0 mph,29.53 in,0.0 in,Haze,0
+679,July,2014,Japan, Nagano,64 °F,54 °F,70 %,0 mph,0 mph,27.78 in,0.0 in,Mostly Cloudy,0
+680,August,2014,Japan, Nara,,,,,,,,,0
+681,August,2014,Japan, Tookyoo,50 °F,42 °F,80 %,9 mph,0 mph,29.45 in,0.0 in,Mostly Cloudy,0
+682,August,2014,Japan, Siga,50 °F,42 °F,80 %,9 mph,0 mph,29.45 in,0.0 in,Mostly Cloudy,0
+683,May,2014,Japan, Yamanasi provinces,,,,,,,,,0
+684,August,2014,Japan, Ehime,21 °F,14 °F,48 %,3 mph,0 mph,29.04 in,0.0 in,Mostly Cloudy,0
+685,May,2014,Japan, Isikawa,84 °F,68 °F,58 %,0 mph,0 mph,29.58 in,0.0 in,Haze,0
+686,June,2014,Japan, Saitama,,,,,,,,,0
+687,August,2014,Japan, Nagasaki,80 °F,73 °F,71 %,0 mph,0 mph,29.71 in,0.0 in,Partly Cloudy,0
+688,June,2014,Japan, Totigi,86 °F,75 °F,93 %,0 mph,0 mph,29.80 in,0.0 in,Fair,0
